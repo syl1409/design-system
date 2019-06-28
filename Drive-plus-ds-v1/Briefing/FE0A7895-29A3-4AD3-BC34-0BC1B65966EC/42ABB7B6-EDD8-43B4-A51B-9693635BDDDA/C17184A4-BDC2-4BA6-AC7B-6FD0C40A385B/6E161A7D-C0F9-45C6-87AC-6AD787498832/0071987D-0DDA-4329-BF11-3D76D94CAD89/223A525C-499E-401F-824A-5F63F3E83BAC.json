@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 13
+              "name": "Roboto-Light",
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -35,10 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E603617-7C1E-47CA-9386-7ABD72029EC4",
+  "do_objectID": "223A525C-499E-401F-824A-5F63F3E83BAC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A2E63711-A24B-4A97-A389-5CF2C8F4C853",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 71,
-    "x": 10,
-    "y": 14
+    "do_objectID": "792DF7F6-8911-4478-992C-DF5DCE715ED3",
+    "height": 14,
+    "width": 90,
+    "x": 14,
+    "y": 5
   },
-  "glyphBounds": "{{0, 2}, {70, 13}}",
+  "glyphBounds": "{{1, 2}, {61, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,17 +67,19 @@
   "lineSpacingBehaviour": 2,
   "name": "Description:",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "DB0B2B9C-B548-462A-AE4D-FC2B5FAECDA3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "9D689422-B73E-4EA5-AC19-06570B91A936",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 13
+            "name": "Roboto-Light",
+            "size": 12
           }
         },
         "paragraphStyle": {
@@ -101,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
