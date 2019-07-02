@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9C7ED465-79EA-43C0-8B57-0A4946C9201C",
+  "do_objectID": "E50A9F69-B110-42F5-82FD-8B63E5057AF9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4A3A3C72-A7AF-49FA-A6D4-B1485B6C6AA3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 113,
-    "x": 1109,
-    "y": 915
+    "do_objectID": "E87AE0F0-8D55-470B-8281-EDC2613F7FE4",
+    "height": 20,
+    "width": 58,
+    "x": 42,
+    "y": 76
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,28 +30,39 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons/Rectangular/only-text",
+  "name": "Buttons/Rectangular/only-text Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4D33051A-2C9E-4C1B-8855-C2C3C97C533E",
-      "overrideName": "DF793206-1C89-496B-AD27-149D15977482_stringValue",
-      "value": "Save"
+      "do_objectID": "657224E5-2B0F-401E-A978-68DFED181CB3",
+      "overrideName": "B8100453-2AB2-4848-89FA-3731B0C12819_stringValue",
+      "value": "Cancel"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.8999999761581421,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7868A463-B2AC-47F3-9DD4-250F45AE90DD",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.999999761581421,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "13C7DCEE-AFD6-4B33-864C-43168B0558AA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C351494B-DA68-4618-9DD7-1B84A639FA86",
+  "symbolID": "119C598D-FCB4-4827-9817-FD2151337F76",
   "verticalSpacing": 0
 }

@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.392156862745098,
-            "green": 0.392156862745098,
-            "red": 0.392156862745098
+            "blue": 0.9467440549920845,
+            "green": 0.9467440549920845,
+            "red": 0.9697597789115646
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
+              "name": "Roboto-Bold",
+              "size": 12.5
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 10,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Input text"
+    "string": "Save"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7E68C46B-36A2-4604-9CA5-0069F3466856",
+  "do_objectID": "91E7BDD7-079C-4F34-B17B-B03B1D7E20B1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "104ACDAC-9DCB-4E4C-A9A9-6B4B4BAA2E3C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F32587D3-0049-4503-9E13-277216189356",
     "height": 15,
-    "width": 174,
-    "x": 20.93333333333317,
-    "y": 9
+    "width": 28,
+    "x": 23.32743362831859,
+    "y": 7
   },
-  "glyphBounds": "{{1, 2}, {54, 13}}",
+  "glyphBounds": "{{0, 2}, {27, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,45 +64,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Input text",
+  "name": "Text",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "875D3A9A-3E22-4348-B229-25154BCDEA5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "76E991B9-7405-4451-AD68-16FC08B86A79",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.392156862745098,
-          "green": 0.392156862745098,
-          "red": 0.392156862745098
+          "blue": 0.9467440549920845,
+          "green": 0.9467440549920845,
+          "red": 0.9697597789115646
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 13
+            "name": "Roboto-Bold",
+            "size": 12.5
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
