@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B21C0F09-B4A4-48E1-BB6C-B18EC7F0E443",
+  "do_objectID": "D6CF7A65-9117-4D71-9834-3E4DE547B9D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE54D931-CF09-4457-9A5C-90687033FBAC",
+    "do_objectID": "CE091649-39F8-4CBD-878E-3ECC308FF667",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "710C2326-C3B1-48B5-87CD-7DC31807D11D",
-    "height": 25,
-    "width": 153,
-    "x": 49,
-    "y": 128
+    "do_objectID": "C4ACFBDF-2F44-4411-B28B-642DF6650E4A",
+    "height": 27,
+    "width": 27,
+    "x": 88,
+    "y": 789
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,35 +30,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Components/title-subheader",
+  "name": "Buttons/Rectangular/only-icon Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4BE69765-8268-452D-99BB-873DF19F2008",
-      "overrideName": "511700BE-E31D-415D-8990-050F5BB532C7_stringValue",
-      "value": "Please configure your product"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "30190107-C680-4D87-8DA1-12CD9AFF3536",
-      "overrideName": "C987283F-0149-483A-819D-B413953A69C9_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.8669999473094947,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2B306D42-F029-4CC3-8C4D-0165DBCB002D",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "07692756-525A-41AC-BA15-A7C517B759ED",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.669999473094947,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FEE28714-D27E-42FA-80A8-2100C1D8F02A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "235FF1D0-3708-45F0-A1C8-A236929E9D55",
+  "symbolID": "06D9781C-147C-4073-9F10-C7F8659047C3",
   "verticalSpacing": 0
 }
