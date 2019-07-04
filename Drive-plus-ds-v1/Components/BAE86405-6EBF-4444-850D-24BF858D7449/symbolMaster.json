@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 104,
+  "changeIdentifier": 2325,
   "clippingMaskMode": 0,
   "do_objectID": "BAE86405-6EBF-4444-850D-24BF858D7449",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
+    "height": 121,
     "width": 266,
     "x": 3247,
     "y": 539
@@ -69,16 +69,20 @@
       "id": "A910C2F2-451F-416C-85A2-EB49F20D9DE5"
     },
     {
+      "class": "text",
+      "id": "B43F7A6D-EEDF-4BCC-A9C6-C64D68EB0BEF"
+    },
+    {
       "class": "shapePath",
       "id": "9AEE6277-878A-4514-9507-DAC5ABB9F9B9"
     },
     {
       "class": "symbolInstance",
-      "id": "E6E9F17C-6452-45BC-9E63-412761B60A6E"
+      "id": "2D95D6DD-EE09-4A28-922A-35CE52D120A0"
     },
     {
       "class": "symbolInstance",
-      "id": "9F98C828-3C19-4CF0-BCFD-40D6D86F0CF7"
+      "id": "802D92D4-346B-4B15-83AF-86026D2B0CFA"
     }
   ],
   "name": "Components/product-card",
@@ -87,7 +91,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9F98C828-3C19-4CF0-BCFD-40D6D86F0CF7_symbolID"
+      "overrideName": "B43F7A6D-EEDF-4BCC-A9C6-C64D68EB0BEF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B43F7A6D-EEDF-4BCC-A9C6-C64D68EB0BEF_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2D95D6DD-EE09-4A28-922A-35CE52D120A0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "802D92D4-346B-4B15-83AF-86026D2B0CFA_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -103,11 +122,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "A910C2F2-451F-416C-85A2-EB49F20D9DE5_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E6E9F17C-6452-45BC-9E63-412761B60A6E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
