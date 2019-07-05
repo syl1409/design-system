@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "994A0F2D-1DCB-4758-934A-0CC35681ACEB",
+  "do_objectID": "E15927EE-6F61-4D9B-9C7C-C08FAE420D1D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E4E2A773-1C80-4F01-BEFF-438C5B9C0B5A",
+    "do_objectID": "630B98E6-FF58-48F4-A123-81D81E203C5B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AD4FDA56-AE80-4457-976E-4A0CBA841B20",
-    "height": 158,
-    "width": 266,
-    "x": 364,
-    "y": 311
+    "do_objectID": "1EEB146B-3678-44A4-8CCF-ECF15795E4A1",
+    "height": 18,
+    "width": 51,
+    "x": 46,
+    "y": 68
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,35 +30,39 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Components/Config-brief-card Copy",
+  "name": "Buttons/Rectangular/only-text Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EE67D696-798B-4AE0-98BC-332FDAFC5FF5",
-      "overrideName": "F318CFD8-C1A8-4A37-9DEC-90FC7EF64AD8_stringValue",
-      "value": "L'Oreal Ideation"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "14B47E7A-5DEB-486D-8C56-98DF6B3FB029",
-      "overrideName": "E88016B7-33F1-4DBE-876B-2DC3C306F4AB_stringValue",
-      "value": "1 Brand | 3 Briefs"
+      "do_objectID": "C9D06301-8E17-4C1D-8B7A-922B1ED2D683",
+      "overrideName": "B8100453-2AB2-4848-89FA-3731B0C12819_stringValue",
+      "value": "Cancel"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.9240000410079955,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "672D0F10-171E-49D9-ACDB-314E28F9692D",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "35714D17-87DE-4603-B8C1-29474336F9FF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.240000410079954,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4411AB03-C9A9-44D6-8DE0-E4B12D3ACF7E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9EB29448-793D-4813-8DDA-DDF0EE623E17",
+  "symbolID": "119C598D-FCB4-4827-9817-FD2151337F76",
   "verticalSpacing": 0
 }
