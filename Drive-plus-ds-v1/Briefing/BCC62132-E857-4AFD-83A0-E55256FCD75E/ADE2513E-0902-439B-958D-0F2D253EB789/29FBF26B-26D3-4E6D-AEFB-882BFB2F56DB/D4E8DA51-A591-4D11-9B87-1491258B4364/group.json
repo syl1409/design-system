@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1AE1A3EC-DF2E-4FD7-9625-24DE6F37A8EA",
+  "do_objectID": "D4E8DA51-A591-4D11-9B87-1491258B4364",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22.62857142857143,
-    "width": 22.62857142857143,
-    "x": 0.6857142857142857,
-    "y": 0.6857142857142857
+    "height": 48,
+    "width": 14,
+    "x": 0,
+    "y": 3.552713678800501e-15
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "AF228F51-B2D1-4B27-9EC2-A2C49F349734"
+    },
+    {
       "class": "group",
-      "id": "3601506F-53F5-4DB3-8B38-5EEC7E6D03ED"
+      "id": "4064C8FC-58C9-4C52-8CDA-2E8476074D7D"
     }
   ],
-  "name": "Colors/Theme Colors/branding buttons-fill",
-  "nameIsFixed": false,
+  "name": "Dragndrop Input",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

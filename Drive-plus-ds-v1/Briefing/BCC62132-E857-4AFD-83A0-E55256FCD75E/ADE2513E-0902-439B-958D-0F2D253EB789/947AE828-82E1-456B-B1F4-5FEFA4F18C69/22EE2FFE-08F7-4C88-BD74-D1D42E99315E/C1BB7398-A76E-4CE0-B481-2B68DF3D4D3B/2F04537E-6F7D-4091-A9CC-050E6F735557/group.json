@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "67CFA3FA-C6C4-40E0-9DFA-49CA598B6191",
+  "do_objectID": "2F04537E-6F7D-4091-A9CC-050E6F735557",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "75F7925A-7D1D-4AC9-8B2E-080FD999BF49",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 270,
-    "width": 166,
-    "x": 914,
-    "y": 107
+    "do_objectID": "48E1E8CD-7F88-42B0-816A-C717AE866413",
+    "height": 13,
+    "width": 13,
+    "x": 5,
+    "y": 4
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9C32C66A-B70A-4D14-9E54-5E5E15FE9180"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,46 +33,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "634FCEC8-46A6-4887-874A-156819EB0756"
-    },
-    {
-      "class": "text",
-      "id": "F1D42CFD-1234-4289-A4A4-E90AD2B96C54"
+      "class": "shapePath",
+      "id": "A5AB8C0B-F2AD-47AF-851B-380EAD7CBD9A"
     },
     {
       "class": "shapePath",
-      "id": "2AB2CA8D-DB98-41B0-A6DB-4740E6024728"
+      "id": "21AF4BFE-4209-4CC0-856F-5B4CEBE4495D"
     },
     {
       "class": "shapePath",
-      "id": "D1385B75-617F-41A4-9390-0DE21CC8CCE6"
-    },
-    {
-      "class": "shapePath",
-      "id": "929FFFCB-385A-42D2-A64E-D55ED5D7C19D"
-    },
-    {
-      "class": "shapePath",
-      "id": "D6715012-7090-4710-8AA0-0C4C2136C965"
-    },
-    {
-      "class": "shapePath",
-      "id": "82A8B093-CEA9-4908-AEE6-A42F236CB54B"
-    },
-    {
-      "class": "shapePath",
-      "id": "55CE8F57-F82D-493D-BFE4-332412FE73DE"
-    },
-    {
-      "class": "shapePath",
-      "id": "64B9A2B5-C0AB-48E2-BEA0-2F2F80A7F78E"
+      "id": "C6AA3B6A-2783-4E7F-9379-11CA69F66E57"
     }
   ],
-  "name": "Group 3",
+  "name": "pencil",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,6 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "314A8363-E805-4BB0-82C2-781AB5CFF07B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
