@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9DE69AFD-4DA9-45CC-AADE-B7C77B3C0272",
+  "do_objectID": "9783D23D-E87D-4440-9F66-630069C09633",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "809FDA89-B76B-4430-AE7B-5B614E5C093B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,16 +14,17 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 219,
-    "width": 953,
-    "x": 0.9226713532507347,
-    "y": 0.3394495412844662
+    "do_objectID": "2CB67A8F-6C2E-4A0C-9675-61AFE5F09B23",
+    "height": 153,
+    "width": 917,
+    "x": 0,
+    "y": 25
   },
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -30,14 +32,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Mask",
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -88,16 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.796078431372549,
-          "green": 0.796078431372549,
-          "red": 0.803921568627451
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
+        "isEnabled": false,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "E0B02142-12E9-407D-A44F-1EF177F2444A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,12 +108,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9809499547101449,
+          "green": 0.9809499547101449,
+          "red": 0.9809499547101449
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
