@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 442,
+  "changeIdentifier": 1384,
   "clippingMaskMode": 0,
   "do_objectID": "2EF35AB4-E592-4E8F-84ED-CA400EB2D0AD",
   "exportOptions": {
@@ -27,10 +27,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BA5BD18-E6F4-4B3C-BB6B-651102BE828C",
-    "height": 76,
+    "height": 91,
     "width": 170,
     "x": 5398,
-    "y": -370
+    "y": -410
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -68,6 +68,10 @@
     {
       "class": "symbolInstance",
       "id": "B0B6A991-12B7-4115-B062-2A91CA6E3A1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E15927EE-6F61-4D9B-9C7C-C08FAE420D1D"
     }
   ],
   "name": "Components/country-card-back",
@@ -87,6 +91,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6C428E2A-B19F-4FD6-AB8D-5C9DB06EC1CB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E15927EE-6F61-4D9B-9C7C-C08FAE420D1D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
