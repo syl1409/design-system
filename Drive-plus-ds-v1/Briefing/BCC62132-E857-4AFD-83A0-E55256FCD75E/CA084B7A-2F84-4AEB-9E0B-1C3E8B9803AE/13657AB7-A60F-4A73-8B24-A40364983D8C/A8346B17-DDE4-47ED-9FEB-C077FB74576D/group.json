@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B48A984-AF0A-4A97-94DE-C069D0494400",
+  "do_objectID": "A8346B17-DDE4-47ED-9FEB-C077FB74576D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 220,
-    "width": 954,
-    "x": 0.07732864674881057,
-    "y": 42
+    "height": 24,
+    "width": 62,
+    "x": 193,
+    "y": 125
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,14 +34,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "9DE69AFD-4DA9-45CC-AADE-B7C77B3C0272"
+      "id": "A062537B-C850-4DE4-8AB6-A76412B7668E"
     },
     {
-      "class": "symbolInstance",
-      "id": "3495768E-A00A-49A2-874E-A4B21E089EC6"
+      "class": "text",
+      "id": "783DD867-6DE5-4B73-A17B-901BEFCB50D4"
     }
   ],
-  "name": "Colors/Brackgrounds/General/white-fill",
+  "name": "Buttons/Rectangular/only-text Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,28 +51,6 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.7914856896485315,
-          "green": 0.7914856896485315,
-          "red": 0.8035980017006803
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B48A984-AF0A-4A97-94DE-C069D0494400",
+  "do_objectID": "105BB6C9-087B-44C7-82ED-92373DF9F828",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F4D3C3DD-B639-4C06-B608-E5E6E0713FFC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 220,
-    "width": 954,
-    "x": 0.07732864674881057,
-    "y": 42
+    "do_objectID": "5BF63ACF-8D52-4604-B654-563B387369AB",
+    "height": 25,
+    "width": 301,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B3C3E334-1737-4F75-9B94-F4F838185446"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,14 +37,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "9DE69AFD-4DA9-45CC-AADE-B7C77B3C0272"
+      "id": "A7953BB5-450E-4EF5-AAD6-D40FE09E6737"
     },
     {
-      "class": "symbolInstance",
-      "id": "3495768E-A00A-49A2-874E-A4B21E089EC6"
+      "class": "text",
+      "id": "94CDE8A5-3082-4B41-9313-B1FEB0700544"
     }
   ],
-  "name": "Colors/Brackgrounds/General/white-fill",
+  "name": "Group 4 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,30 +52,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "42CD2003-2184-42DF-AB2F-655AC35DCFF3",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.7914856896485315,
-          "green": 0.7914856896485315,
-          "red": 0.8035980017006803
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
