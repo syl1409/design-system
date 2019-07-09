@@ -9,38 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9725490196078431,
-            "green": 0.541176470588235,
-            "red": 0.3921568627450981
+            "blue": 0.392156862745098,
+            "green": 0.392156862745098,
+            "red": 0.392156862745098
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
+              "name": "Roboto-Medium",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21.60000038146973,
-            "minimumLineHeight": 21.60000038146973
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Go to external link"
+    "string": "13/09/2019 - 10:30 am"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A910C2F2-451F-416C-85A2-EB49F20D9DE5",
+  "do_objectID": "72B34C5A-BB49-4FB0-8D9B-83CF22699E0A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "49AFE9E2-373A-4C05-810D-6316894C61FD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A8418789-E779-4D18-BF78-1B28CE538E3C",
-    "height": 21.60000038146973,
-    "width": 104,
-    "x": 20,
-    "y": 40.99860139993523
+    "height": 14,
+    "width": 125,
+    "x": 170,
+    "y": 83
   },
-  "glyphBounds": "{{0, 5}, {104, 11}}",
+  "glyphBounds": "{{0, 2}, {124, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,16 +63,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Go to external link",
+  "name": "13/09/2019 - 10:30 a",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5383D7C1-80BA-43AF-AEC0-A06C95A8AAA8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "53ACE0A8-CC38-4BA2-918D-6BECC4F2E3D0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,27 +80,26 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.541176470588235,
-          "red": 0.3921568627450981
+          "blue": 0.392156862745098,
+          "green": 0.392156862745098,
+          "red": 0.392156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 13
+            "name": "Roboto-Medium",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 21.60000038146973,
-          "minimumLineHeight": 21.60000038146973
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

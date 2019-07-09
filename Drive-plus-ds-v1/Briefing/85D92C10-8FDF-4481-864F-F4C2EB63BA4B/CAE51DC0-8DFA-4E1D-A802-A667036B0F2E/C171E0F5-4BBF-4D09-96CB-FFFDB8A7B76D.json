@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1607843137254902,
-            "green": 0.1450980392156863,
-            "red": 0.1294117647058823
+            "blue": 0.392156862745098,
+            "green": 0.392156862745098,
+            "red": 0.392156862745098
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 18
+              "name": "Roboto-Medium",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21.60000038146973,
-            "minimumLineHeight": 21.60000038146973
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "TVC Cutdown"
+    "string": "Updated date"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E5B4A200-18B9-46CF-8CFF-868A5736027E",
+  "do_objectID": "C171E0F5-4BBF-4D09-96CB-FFFDB8A7B76D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7D39AF99-643C-4438-9957-946A62A49CA6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21.60000038146973,
-    "width": 197,
-    "x": 20,
-    "y": 18.99860139993522
+    "do_objectID": "5563D807-E626-4E21-927D-68D4914D0EB5",
+    "height": 14,
+    "width": 72,
+    "x": 202,
+    "y": 48
   },
-  "glyphBounds": "{{0, 3}, {110, 14}}",
+  "glyphBounds": "{{0, 2}, {72, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,46 +65,45 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name of the product",
-  "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "name": "Updated date",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "640EA8E0-304C-4DC7-9240-62DFD3B8177E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "95A5FA39-079F-4BC1-8D6A-37870D35922D",
+    "do_objectID": "FD3F05FF-AA9F-4D7C-9F48-D444FC3EDAB6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6F05D42F-E329-40A0-806F-0E2464694CFD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1607843137254902,
-          "green": 0.1450980392156863,
-          "red": 0.1294117647058823
+          "blue": 0.392156862745098,
+          "green": 0.392156862745098,
+          "red": 0.392156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 18
+            "name": "Roboto-Medium",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 21.60000038146973,
-          "minimumLineHeight": 21.60000038146973
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
