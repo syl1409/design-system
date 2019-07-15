@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
+              "name": "Roboto-Regular",
               "size": 16
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 51,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "Disabled primary button (background at 30% opacity)"
+    "string": " (background at 50% opacity)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 380,
-    "x": 0,
-    "y": 88
+    "height": 19,
+    "width": 207,
+    "x": 219,
+    "y": 105
   },
-  "glyphBounds": "{{0, 0}, {380, 20}}",
+  "glyphBounds": "{{5, 2}, {201, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,9 +62,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Disabled primary but",
+  "name": "(background at 50% o",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -86,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Semibold",
+            "name": "Roboto-Regular",
             "size": 16
           }
         },
