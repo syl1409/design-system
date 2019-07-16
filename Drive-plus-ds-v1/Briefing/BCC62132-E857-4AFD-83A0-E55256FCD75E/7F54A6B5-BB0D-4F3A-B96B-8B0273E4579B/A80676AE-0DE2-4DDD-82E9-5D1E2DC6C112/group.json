@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE5A1BD5-A803-4B74-80FE-BF09A3A176EF",
-    "height": 221,
+    "height": 410,
     "width": 113,
     "x": 0,
     "y": 93
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -45,6 +45,18 @@
     },
     {
       "class": "rectangle",
+      "id": "302D0FD2-692D-44E7-BBD9-E5DE4C94B3C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A0F7ABF-2D0A-466C-8F5D-8E58A98D30E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "82382768-7863-46BB-B04C-31E078D0EB8A"
+    },
+    {
+      "class": "rectangle",
       "id": "574A61A5-6318-42A2-BE70-9F2BE9F4524E"
     },
     {
@@ -52,8 +64,8 @@
       "id": "5F9572DC-EE6B-4C11-9183-D1456BE4D7BE"
     }
   ],
-  "name": "Group 7",
-  "nameIsFixed": false,
+  "name": "borders",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
