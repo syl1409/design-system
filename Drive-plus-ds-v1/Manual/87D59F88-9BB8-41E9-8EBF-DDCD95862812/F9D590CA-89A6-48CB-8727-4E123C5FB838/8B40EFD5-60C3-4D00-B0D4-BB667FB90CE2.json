@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Regular",
+              "name": "HelveticaNeue-Light",
               "size": 16
             }
           },
@@ -25,108 +25,8 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 106,
+        "length": 184,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.200000003,
-            "green": 0.200000003,
-            "red": 0.200000003
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 3,
-        "location": 106
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 10,
-        "location": 109
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.200000003,
-            "green": 0.200000003,
-            "red": 0.200000003
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 3,
-        "location": 119
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 62,
-        "location": 122
       }
     ],
     "string": "The primary button is used for actions where the button takes a forceful action. It’s used for cases like Yes / No and Add / Cancel. It’s also used for things like Sign Up and Log in. "
@@ -149,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EC83EE60-04F1-4AD6-A283-351EC3BD1C75",
-    "height": 41,
+    "height": 36.92822265625,
     "width": 711,
     "x": 3,
     "y": 84
   },
-  "glyphBounds": "{{0, 0}, {711, 41}}",
+  "glyphBounds": "{{-1, 3}, {698, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -168,9 +68,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "84786D70-5708-4F22-8775-117E871709D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C756B97D-D8EC-4F5F-9FED-85616C34B939",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -180,14 +82,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.200000003,
-          "green": 0.200000003,
-          "red": 0.200000003
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Regular",
+            "name": "HelveticaNeue-Light",
             "size": 16
           }
         },

@@ -31,21 +31,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3484,
+    "height": 957,
     "width": 879,
-    "x": 967,
+    "x": 2226,
     "y": 28
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      32
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -65,50 +66,6 @@
     {
       "class": "shapePath",
       "id": "DAE09415-2793-48FF-AB6F-7F68EA2713A8"
-    },
-    {
-      "class": "shapePath",
-      "id": "82542B28-F0C9-4320-8D15-289021E2EAA3"
-    },
-    {
-      "class": "shapePath",
-      "id": "D783A530-C824-48DA-9AB3-7A3BA212EAF5"
-    },
-    {
-      "class": "shapePath",
-      "id": "288F0288-E970-4AF3-8255-0BD985EFA46B"
-    },
-    {
-      "class": "shapePath",
-      "id": "1B83E606-9B0D-486C-935C-E81B5A285C68"
-    },
-    {
-      "class": "shapePath",
-      "id": "AC5C1A91-B2FA-4778-B3C1-ECF1E9F1BF05"
-    },
-    {
-      "class": "shapePath",
-      "id": "F4CF0841-1158-4B95-B0F2-29D735A23272"
-    },
-    {
-      "class": "group",
-      "id": "E1FE2026-C239-4F41-A4A0-547E9AFA85B9"
-    },
-    {
-      "class": "group",
-      "id": "40F7D0E7-5522-4900-8F89-BE2015A3C7DB"
-    },
-    {
-      "class": "group",
-      "id": "E7C30D9C-F228-4496-B270-FDBB0772348E"
-    },
-    {
-      "class": "group",
-      "id": "73248E81-AA2A-41D2-8A65-1679168F05B2"
-    },
-    {
-      "class": "group",
-      "id": "4178489E-C175-43AD-9980-15A2CDE6E99B"
     },
     {
       "class": "group",
@@ -140,7 +97,23 @@
     },
     {
       "class": "symbolInstance",
+      "id": "B4E6A4CB-8D46-4D3F-9202-524308D03AB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8597633D-1B26-4EF3-B26B-09DA24B8BD34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87541594-E531-426B-83D7-364A671322CF"
+    },
+    {
+      "class": "symbolInstance",
       "id": "108535C0-5788-4FF2-970F-3F4F99545715"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCE5E6B5-5B16-4194-BEEC-FE71DE53B18D"
     },
     {
       "class": "rectangle",
@@ -189,11 +162,12 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -24,
+    "base": 366,
     "guides": [
-      64,
+      102,
       424,
-      789
+      789,
+      -267
     ]
   }
 }

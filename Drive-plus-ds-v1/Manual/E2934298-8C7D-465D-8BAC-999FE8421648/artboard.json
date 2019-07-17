@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 620,
     "width": 980,
-    "x": 3938,
+    "x": 5197,
     "y": 28
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,20 +64,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "808D9232-9C6A-4D20-AB3E-7ADCB8426A4D"
-    },
-    {
-      "class": "text",
-      "id": "3DC066D0-BCAB-4156-A7EC-0E492FA85126"
-    },
-    {
       "class": "bitmap",
       "id": "3913B0C4-78BC-4B19-813D-49640A76C862"
     },
     {
       "class": "group",
       "id": "7838E782-6B18-42F2-8A55-E1CE75488CB5"
+    },
+    {
+      "class": "rectangle",
+      "id": "5DC34D94-5B4A-407A-88F6-AE2DF958E827"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC3AD267-C557-45C9-AED6-8A45E31AC2DB"
+    },
+    {
+      "class": "text",
+      "id": "90898408-3CFB-46E5-A473-DE1A89282A99"
     }
   ],
   "name": "Modals",
