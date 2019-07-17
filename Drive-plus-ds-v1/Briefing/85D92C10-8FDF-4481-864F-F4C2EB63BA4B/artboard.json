@@ -34,10 +34,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A505EB3E-2933-476E-B352-E720176DD64E",
-    "height": 1582,
+    "height": 1714,
     "width": 1280,
     "x": 377,
-    "y": 123
+    "y": -196
   },
   "grid": {
     "_class": "simpleGrid",
@@ -49,7 +49,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -99,10 +99,6 @@
     {
       "class": "rectangle",
       "id": "6C261BFE-AA68-4EA4-A524-94DD5BF76239"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B4C0B0A6-61E6-4F29-B2B2-CB119849FAD5"
     },
     {
       "class": "symbolInstance",
@@ -233,12 +229,24 @@
       "id": "6B4672AD-1D20-4A95-AAE2-364BAE8BD186"
     },
     {
+      "class": "symbolInstance",
+      "id": "1D213F5F-65DE-4B1B-8FA1-E170A438B7F7"
+    },
+    {
       "class": "text",
       "id": "011E0C0E-CD9A-4B60-9E81-D494E627C5C7"
     },
     {
       "class": "text",
+      "id": "A37F237B-C357-449E-89EF-FFFECA0199C0"
+    },
+    {
+      "class": "text",
       "id": "03455AFB-34F6-409F-94B1-B38ABB123C98"
+    },
+    {
+      "class": "text",
+      "id": "B4D27AD3-E6A5-4190-807D-DEE25783D565"
     },
     {
       "class": "shapePath",
@@ -354,6 +362,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "3325B844-94CE-40FC-B6DD-8F8793BD416C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "9F66B79A-373E-443F-8897-6C689D67DAFE"
     },
     {
@@ -399,6 +411,10 @@
     {
       "class": "group",
       "id": "C0A24266-B107-4C70-807D-B0FA87E7C940"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4C0B0A6-61E6-4F29-B2B2-CB119849FAD5"
     }
   ],
   "layout": {
