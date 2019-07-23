@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 30,
+  "clippingMaskMode": 0,
   "do_objectID": "10C3E9A6-BEA0-41FD-8EEF-E87ED1A7869D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +29,12 @@
     "x": 152,
     "y": 22683
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,12 +53,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "774FABC7-68BF-4295-ADC3-0B8F7A878E7B"
     }
   ],
   "name": "Colors/Black",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
