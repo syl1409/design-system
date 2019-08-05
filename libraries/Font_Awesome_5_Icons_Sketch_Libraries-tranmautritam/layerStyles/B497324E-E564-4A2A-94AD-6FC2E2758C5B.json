@@ -20,7 +20,7 @@
         "thickness": 1
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -37,7 +37,6 @@
           "elipseLength": 0,
           "from": "{0.23741869103248375, 1}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -72,7 +71,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "B497324E-E564-4A2A-94AD-6FC2E2758C5B",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }
