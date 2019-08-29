@@ -1,12 +1,11 @@
 {
-  "_class": "shapePath",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A2F5885-0A5C-45E4-A8F3-48E6D579E0D0",
-  "edited": true,
+  "do_objectID": "0B180CFD-2FF4-4C22-8DC8-F63EF48D7289",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EC84152D-33DD-48FC-8C10-7E3D6C13355B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,46 +13,67 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 3.199999809265137,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B62F6A4E-6CEE-4A0D-9F06-DDC5A9112627",
-    "height": 2,
-    "width": 437,
-    "x": 87,
-    "y": 957
+    "height": 16.53333234786987,
+    "width": 50.666663646698,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
-  "isClosed": false,
+  "hasClippingMask": true,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Line 5 Copy 5",
-  "nameIsFixed": false,
+  "layerListExpandedType": 1,
+  "name": "Mask",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0011441647597254015, 0.74999999999999956}",
+      "cornerRadius": 3.199999809265137,
+      "curveFrom": "{0, 0}",
       "curveMode": 1,
-      "curveTo": "{0.0011441647597254015, 0.74999999999999956}",
+      "curveTo": "{0, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.50000000000000022}"
+      "point": "{0, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0034324942791759331, 2.7500000000000018}",
+      "cornerRadius": 3.199999809265137,
+      "curveFrom": "{1, 0}",
       "curveMode": 1,
-      "curveTo": "{0.0034324942791759331, 2.7500000000000018}",
+      "curveTo": "{1, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0.5}"
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 3.199999809265137,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 3.199999809265137,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -62,14 +82,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "do_objectID": "C186D3F9-1C91-44FF-851B-A83835A2320A",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
       "isEnabled": false,
-      "lineCapStyle": 2,
-      "lineJoinStyle": 0
+      "motionAngle": 0,
+      "radius": 7.999999523162842,
+      "saturation": 1,
+      "type": 0
     },
     "borders": [
       {
@@ -82,18 +102,11 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 1
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0.7999999523162842
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "A7B3FF47-7B77-45B4-A60B-41AD82BA0698",
-      "opacity": 0.2000000178813934
-    },
-    "do_objectID": "DE203A63-1BE8-41EC-8AA9-690202E7484D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -106,7 +119,7 @@
           "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
