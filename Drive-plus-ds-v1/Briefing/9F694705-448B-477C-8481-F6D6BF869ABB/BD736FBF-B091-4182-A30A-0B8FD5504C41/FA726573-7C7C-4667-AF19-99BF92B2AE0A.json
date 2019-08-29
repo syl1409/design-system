@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9467440549920845,
-            "green": 0.9467440549920845,
-            "red": 0.9697597789115646
+            "blue": 0.4220610119047619,
+            "green": 0.4220610119047619,
+            "red": 0.4220610119047619
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 9.999999403953552
+              "name": "HelveticaNeue",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 1
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
         },
-        "length": 4,
+        "length": 56,
         "location": 0
       }
     ],
-    "string": "Copy"
+    "string": "Leave values entered manually and recalculate the others"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1F7E780D-A9F4-4FC4-9C6F-5D7BC6C8BBAF",
+  "do_objectID": "FA726573-7C7C-4667-AF19-99BF92B2AE0A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "40B27ACA-8275-4160-BBFA-1A30216814DB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 11,
-    "width": 23,
-    "x": 13.833331823349,
-    "y": 1.899999777475992
+    "do_objectID": "6C5BA1F0-BB14-4021-B842-7BC51348F10A",
+    "height": 29.99999999999999,
+    "width": 474,
+    "x": 444,
+    "y": 282
   },
-  "glyphBounds": "{{0, 1}, {23, 11}}",
+  "glyphBounds": "{{1, 8}, {357, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,53 +67,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Text",
+  "name": "Leave values entered",
   "nameIsFixed": false,
-  "resizingConstraint": 45,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 7.999999523162842,
-      "saturation": 1,
-      "type": 0
-    },
+    "do_objectID": "D6CFFF1D-FB78-4F7B-B8C1-BBA65042C64B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "33DCB3F9-3BA1-43CA-8CC7-507C2741A68B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9467440549920845,
-          "green": 0.9467440549920845,
-          "red": 0.9697597789115646
+          "blue": 0.4220610119047619,
+          "green": 0.4220610119047619,
+          "red": 0.4220610119047619
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 9.999999403953552
+            "name": "HelveticaNeue",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 1
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
