@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "157CB5C6-7F9C-4265-9ADF-17D6933B5AF9",
+  "do_objectID": "556B7A24-0BC5-4B10-98A9-149D37BD8A49",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5DC0809-01E4-4BEB-AC5A-3BE429384B98",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,40 +13,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "478ECDD9-1A21-4943-9888-519532882383",
-    "height": 86.96697674418606,
-    "width": 91,
-    "x": -8,
-    "y": -4.212771317829453
+    "constrainProportions": true,
+    "height": 497,
+    "width": 1276,
+    "x": -185,
+    "y": -29
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/85020bc98e15a6e90595caa8a716d68d7d3f70c4.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Gradient",
-  "nameIsFixed": true,
-  "overrideValues": [
-  ],
+  "name": "Captura de Pantalla 2019-09-09 a la(s) 10.49.15 a. m.",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "99A3CCA8-AC9C-4589-ABB7-6216E1194001",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "32E46B04-DBC6-4CED-BFD0-15A9C0386EB0",
-  "verticalSpacing": 0
+  }
 }
