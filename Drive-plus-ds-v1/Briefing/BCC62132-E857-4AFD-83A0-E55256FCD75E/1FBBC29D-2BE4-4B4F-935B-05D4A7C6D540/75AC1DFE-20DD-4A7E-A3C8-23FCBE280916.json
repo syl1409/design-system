@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "Associated \ncontacts:"
+    "string": "Associated contacts*:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "44C1AE6A-F575-44B8-A0C2-D151A44002FA",
     "height": 30,
-    "width": 69,
-    "x": 64,
+    "width": 126,
+    "x": 7,
     "y": 147
   },
-  "glyphBounds": "{{3, 2}, {65, 26}}",
+  "glyphBounds": "{{60, 2}, {66, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Associated contacts:",
+  "name": "Associated contacts*",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,5 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
