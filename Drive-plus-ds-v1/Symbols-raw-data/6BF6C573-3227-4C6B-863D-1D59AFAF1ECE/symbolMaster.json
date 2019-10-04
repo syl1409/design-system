@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 342,
+  "changeIdentifier": 587,
   "clippingMaskMode": 0,
   "do_objectID": "6BF6C573-3227-4C6B-863D-1D59AFAF1ECE",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 38,
-    "x": 9578,
-    "y": 0
+    "height": 42,
+    "width": 43,
+    "x": 9576,
+    "y": -2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -55,16 +55,19 @@
     {
       "class": "group",
       "id": "B580A8E5-F179-4269-A6D8-A1945B211FE4"
+    },
+    {
+      "class": "group",
+      "id": "0F312126-CAAB-42EC-A022-114869229B4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD9885F6-5529-4259-AB8E-FC320C71C2D5"
     }
   ],
-  "name": "Components/badge",
+  "name": "Components/badge-icon",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "48BA2B7A-47BF-4C78-BC83-AEE4FB46C7F3_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

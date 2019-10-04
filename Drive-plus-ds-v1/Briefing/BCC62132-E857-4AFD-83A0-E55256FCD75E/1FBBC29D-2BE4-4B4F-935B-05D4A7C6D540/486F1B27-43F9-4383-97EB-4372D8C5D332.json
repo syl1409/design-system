@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "Template to apply\nupon project\ncreation:"
+    "string": "Template to apply upon project creation:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "58CDD6AE-B210-4838-988C-5BD4BAF5C759",
-    "height": 45,
-    "width": 105,
-    "x": 28,
-    "y": 199
+    "height": 30,
+    "width": 130,
+    "x": 20,
+    "y": 218
   },
-  "glyphBounds": "{{0, 2}, {105, 41}}",
+  "glyphBounds": "{{2, 2}, {128, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -107,5 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
