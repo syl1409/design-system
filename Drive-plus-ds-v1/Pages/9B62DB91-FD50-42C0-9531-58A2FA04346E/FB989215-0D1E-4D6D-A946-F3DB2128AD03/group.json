@@ -5,7 +5,6 @@
   "do_objectID": "FB989215-0D1E-4D6D-A946-F3DB2128AD03",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EFDA985B-8D6D-4FCC-9417-C8D6BCA46427",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "22DD1F8B-3825-4FE7-8824-B7073071BF79",
     "height": 684,
     "width": 5105,
     "x": -3903,
@@ -87,6 +85,7 @@
       "id": "30626806-7EDE-426F-88B6-1989A5BFCC1B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Chat",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -95,9 +94,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C6874599-56C9-48E7-ABBF-2FB77525843F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

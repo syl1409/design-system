@@ -28,31 +28,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "action-1",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E40808D2-B584-4193-BCAA-30877B5A7EB0",
-      "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "9773915F-8EF0-4C82-8123-765124C0C5EB",
+      "do_objectID": "FB9E95A7-7ED2-490C-B0E1-0E5EF99EEC10",
       "overrideName": "0D429DE4-0C53-4F47-A567-6FB1E6A4EAE6_symbolID",
       "value": "1B88D271-FF60-45B3-9749-6A962672D725"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "539AE5CF-061B-44AA-AF37-43F474BD2E89",
+      "do_objectID": "4DEDDFDE-1616-4A82-B372-2E84BAB373AB",
       "overrideName": "0D429DE4-0C53-4F47-A567-6FB1E6A4EAE6/DFDA6D08-CFF8-42AC-BB88-13C974C61D03_symbolID",
       "value": "B2B44F71-C225-4523-8AAA-B1E1019624EC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79F09B05-918D-4E21-9244-259C56EE012A",
+      "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DC1BFE8-6689-47F9-B0D2-BA3D331CB6CD",
+      "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -71,8 +73,38 @@
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "865A4598-0667-41D2-9DE5-A426816DCC64",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -5,7 +5,6 @@
   "do_objectID": "2D3A5BA0-72AE-4216-BCA0-81DBAD2BC13B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5A472915-B10C-4901-88D3-088E27E8B883",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5B3DA196-14C8-498B-BEA8-23018AF28250",
     "height": 24,
     "width": 24,
     "x": 69,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "action-2",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A10F76B6-FA06-429D-8BF1-C7CB199695B5",
+      "do_objectID": "E6854E1C-056C-4EB6-B096-03FDE8548388",
       "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
       "value": "1F7DD2E2-7EB3-45AF-95CE-6D7EA9A44FE6"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "577A5B10-A62D-4A94-B0AA-117AEE4B9F11",
+      "do_objectID": "5598DD07-975D-4D90-B8DE-20A04D4C09F3",
       "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
       "value": ""
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8AD94329-A23D-414D-B553-0ACFA9796AE7",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -5,7 +5,6 @@
   "do_objectID": "5CDF0977-0C8B-4DC4-843A-4A9A943A797A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5BDE651F-BB5A-4DBA-97E5-229D91EC1388",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "30D98C6E-F446-46FE-A906-55782101BCF4",
     "height": 31,
     "width": 31,
     "x": 1221,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Buttons/Rectangular/only-icon",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "79FAD693-AC6C-4D8C-8602-65F3BD393BBC",
+      "do_objectID": "9430C82E-AD4D-4472-9032-378A97644AAA",
       "overrideName": "2615A520-62A8-4734-993A-7E771472AEB9_symbolID",
       "value": "6E9AE8D2-E29E-43AF-8DFB-532C11B3C889"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1B3A467E-4C4E-4F25-8A58-1258C570BAD4",
+      "do_objectID": "4B0986E1-04C5-4AA4-9CF1-D31995AB3D27",
       "overrideName": "2615A520-62A8-4734-993A-7E771472AEB9/910470FB-F52A-45D1-A334-7BD48E0BB45C_symbolID",
       "value": "23D403AD-9353-4757-B770-0C4C33947402"
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "726EF74E-FA3D-46CA-B3E9-F9EA8C79B8C9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

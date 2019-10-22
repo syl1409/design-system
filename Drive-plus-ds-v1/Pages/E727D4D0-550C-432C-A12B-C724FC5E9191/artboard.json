@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "1CFFEC53-58FA-4615-8AE6-6D151226C28B",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "E727D4D0-550C-432C-A12B-C724FC5E9191",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DA50A17C-9AB3-4C60-9F04-C9B63FD10184",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "05716FB3-FC59-4EF1-A5B0-050DFE41E0A4",
     "height": 918,
     "width": 1280,
     "x": -675,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "8CB0CF73-DC3D-4C37-B4A5-050EBDB78205",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3059A201-E9FF-40E4-87AD-72E3C7276609",
     "guides": [
       77,
       148,
@@ -175,6 +170,26 @@
       "id": "203594F1-9EC0-440C-9C6B-AAB1F4B3DE02"
     },
     {
+      "class": "symbolInstance",
+      "id": "C333EAD6-2B59-40FC-8D95-93546DB3A99F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "421D0987-5DF8-4D09-962D-9C6F64C408F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6971A115-BEEB-4B87-8294-AFDE16AE6CE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC77E9AF-F142-4125-A32D-4954F26619F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61B4A5C1-EDF2-4F3C-A884-2EDB353E036D"
+    },
+    {
       "class": "group",
       "id": "B236342A-4043-41AB-8567-8BF6477A42AC"
     },
@@ -201,32 +216,11 @@
     {
       "class": "group",
       "id": "495ACCC7-B937-4842-BAA3-232AB5E4337C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C333EAD6-2B59-40FC-8D95-93546DB3A99F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "421D0987-5DF8-4D09-962D-9C6F64C408F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6971A115-BEEB-4B87-8294-AFDE16AE6CE2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DC77E9AF-F142-4125-A32D-4954F26619F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "61B4A5C1-EDF2-4F3C-A884-2EDB353E036D"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 74,
-    "do_objectID": "2ED099AD-FE24-4A7D-8C7B-CEE34D76FA0A",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -239,8 +233,11 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1150
   },
+  "maintainScrollPosition": false,
   "name": "Dashboard ",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -248,16 +245,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "2F25384D-E11C-4293-9800-1C4776FE4DB0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 105,
-    "do_objectID": "689C6F66-3764-430A-98D3-1839A6061835",
     "guides": [
       728,
       553,

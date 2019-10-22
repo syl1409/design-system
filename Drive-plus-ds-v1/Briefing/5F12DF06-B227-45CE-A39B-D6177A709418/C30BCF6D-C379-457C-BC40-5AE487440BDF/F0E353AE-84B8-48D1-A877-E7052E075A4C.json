@@ -5,7 +5,6 @@
   "do_objectID": "F0E353AE-84B8-48D1-A877-E7052E075A4C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BECE731B-058E-427F-B2A2-B0F459FAFE0E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1CC9EF58-9C1E-4135-AF42-8FE7D25D3D1E",
     "height": 42,
     "width": 43,
     "x": 10,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/badge",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "38BF608E-C34A-48B5-B6A7-69CC96A64198",
+      "do_objectID": "6CEDB55B-90B0-49F3-9D71-D04BBE32CC5A",
       "overrideName": "FE3C86D6-71B8-405C-B311-E1A7B1A7E4CC_symbolID",
       "value": "7A959F62-0828-4E27-954F-4E0A2B3F81C8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "41C60526-6B67-472B-9450-5A5142768B7E",
+      "do_objectID": "7962D965-7658-493F-9E45-7DDEC09451F5",
       "overrideName": "4923637B-F5BD-4B02-8D6C-6B26C6441E34_stringValue",
       "value": "AJ"
     }
@@ -56,16 +55,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A8B835BF-5FE6-4545-8E09-B1D3C4C43695",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 7.999999523162842,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "3DF2F406-CAA4-4C9C-AF1F-D0D4887A265E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

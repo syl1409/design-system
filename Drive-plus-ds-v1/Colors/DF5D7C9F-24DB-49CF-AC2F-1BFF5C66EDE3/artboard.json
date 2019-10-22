@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E574F317-D6A7-4CF0-9AC7-4CBB9CEDE144",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "DF5D7C9F-24DB-49CF-AC2F-1BFF5C66EDE3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "36FD107F-6F50-4B21-A6C4-B3D657CD1858",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,7 +22,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A4B71F3E-0734-43D2-A289-2952F0931E0B",
     "height": 244,
     "width": 1190,
     "x": -346,
@@ -39,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D3B5E6FF-BBA7-4E5F-8169-3A52D44BFC80",
     "guides": [
     ]
   },
@@ -114,8 +110,11 @@
       "id": "CF8DFCC2-80C1-4302-B6BA-20464FDFF132"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Backgrounds",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -123,16 +122,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "0404DCD4-FF38-459D-A1AE-C341249964F3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "59F465BE-DF59-4EF6-B164-3211F425AC99",
     "guides": [
     ]
   }

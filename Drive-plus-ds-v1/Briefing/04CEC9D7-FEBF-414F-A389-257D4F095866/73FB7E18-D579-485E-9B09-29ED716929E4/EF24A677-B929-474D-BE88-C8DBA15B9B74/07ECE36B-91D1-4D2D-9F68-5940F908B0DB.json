@@ -5,7 +5,6 @@
   "do_objectID": "07ECE36B-91D1-4D2D-9F68-5940F908B0DB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F821F9C-297F-4DB8-95B3-9B2CA0D45399",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "51755DA2-AF9A-4714-B3F2-D5AE354682BE",
     "height": 22,
     "width": 52,
     "x": 288,
@@ -30,32 +28,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/Label-tag-symbol Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "038BE8F7-3F59-433E-B38F-9A0D1F640BF3",
-      "overrideName": "D967794A-B45A-4BCD-8D41-E69ACC4ACA50_symbolID",
-      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "87A9779B-E5D8-4078-A983-0E35A46D6BB9",
+      "do_objectID": "352D11CF-A3B9-4B6C-A42C-54E42286D59E",
       "overrideName": "F1A9FF80-6A7A-4D09-8661-7969EE41186A_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "30363C08-D276-4545-A9FF-54C2C71F9AF8",
+      "do_objectID": "36FD01D1-61AE-4C1E-9720-69B71608338D",
       "overrideName": "ECA7A9C4-6574-4448-98FD-448936507BD2_symbolID",
       "value": "735DE8E1-5021-420A-A76C-1BF6AECF060F"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "665CEBDC-0666-40BF-860C-3E9F54E0DBB4",
+      "do_objectID": "7AC942F4-58BD-497A-88AC-B9847095E19A",
       "overrideName": "ECA7A9C4-6574-4448-98FD-448936507BD2/1B7044A4-C6F6-48A9-9A62-EC6EC9A10F3E_symbolID",
       "value": "23D403AD-9353-4757-B770-0C4C33947402"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70F01499-1E86-44E2-AE93-478F6721EBE7",
+      "overrideName": "D967794A-B45A-4BCD-8D41-E69ACC4ACA50_symbolID",
+      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
     }
   ],
   "resizingConstraint": 63,
@@ -68,16 +67,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "30B6F27F-9A27-4615-8EC3-1B8F86B36023",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8.999999761581421,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "34844725-71A2-4A6D-B233-784B7F8EE388",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

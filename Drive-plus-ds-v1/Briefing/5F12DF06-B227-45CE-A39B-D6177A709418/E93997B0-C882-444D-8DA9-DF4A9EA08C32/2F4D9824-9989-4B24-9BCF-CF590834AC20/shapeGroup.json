@@ -5,7 +5,6 @@
   "do_objectID": "2F4D9824-9989-4B24-9BCF-CF590834AC20",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FE75907F-BDF5-4F84-9713-AFF169DD9060",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0FA67FFE-86DA-4B8F-B006-C97CA20900BD",
     "height": 9,
     "width": 9,
     "x": 428,
     "y": 64
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "181B8889-0777-4FEF-BF5F-B41B00C3D8C1"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -44,6 +41,7 @@
       "id": "4AA85BCA-D6A3-4068-A6BD-19039E33E2DA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "search icon copy",
   "nameIsFixed": true,
   "originalObjectID": "604C6389-3D89-4DA6-9913-4062CEFD389D",
@@ -56,17 +54,33 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "E5E3553B-D8C5-4869-A7FD-FD54F82BA340",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 6.99999988079071,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "3906531F-A0EF-47AE-905C-B4EBFECC236A",
       "opacity": 0.4500000178813934
     },
     "do_objectID": "1A0ADDC4-997D-47DE-8D08-AF7437311594",
@@ -81,7 +95,43 @@
           "green": 0.5708607385504707,
           "red": 0.5748299319727891
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -89,11 +139,14 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F25B234B-71AD-4AC1-AE30-3E4CCC322A22",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

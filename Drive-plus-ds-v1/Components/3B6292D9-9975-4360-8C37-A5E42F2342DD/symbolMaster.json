@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 414,
+  "changeIdentifier": 448,
   "clippingMaskMode": 0,
   "do_objectID": "3B6292D9-9975-4360-8C37-A5E42F2342DD",
   "exportOptions": {
@@ -85,6 +85,7 @@
       "id": "25898F17-5655-4252-9206-89EF79416284"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Components/cards/asset-card/image",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -139,6 +140,8 @@
       "overrideName": "F3CCC25A-02F8-40C1-83F9-E72A46A97628_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -146,8 +149,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "045BF657-1E90-48B7-B8F9-F63EA7D42CBD",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

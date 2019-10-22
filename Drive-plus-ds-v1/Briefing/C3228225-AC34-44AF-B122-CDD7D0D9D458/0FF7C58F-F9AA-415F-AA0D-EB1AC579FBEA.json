@@ -5,7 +5,6 @@
   "do_objectID": "0FF7C58F-F9AA-415F-AA0D-EB1AC579FBEA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "30F78EDF-72AB-440D-88F4-305747757D42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0D4F7885-83C4-460A-AD73-164C68A0C4C1",
     "height": 121,
     "width": 266,
     "x": 72,
@@ -30,12 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/product-card",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3632C006-8861-4FA6-B9E0-7A04EBD1DD72",
+      "do_objectID": "6D0A3B87-9F50-4E46-96B5-7BA5C12FABA6",
       "overrideName": "1EA00DEF-4D8E-45BD-BE76-7E1538A7E409/84E09E06-51E7-4567-A9ED-671F08FF8804_stringValue",
       "value": "TVC Cutdown"
     }
@@ -47,9 +46,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "40F49713-EA00-43F4-A707-6A14321EA2EB",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

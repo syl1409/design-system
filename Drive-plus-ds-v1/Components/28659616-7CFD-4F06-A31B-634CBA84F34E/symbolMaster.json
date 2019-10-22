@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 287,
+  "changeIdentifier": 297,
   "clippingMaskMode": 0,
   "do_objectID": "28659616-7CFD-4F06-A31B-634CBA84F34E",
   "exportOptions": {
@@ -57,6 +57,7 @@
       "id": "9DC15E65-7B32-47F5-86C4-D9B541219A62"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Components/cards/Config-brief-card",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -106,6 +107,8 @@
       "overrideName": "34C68B5D-38E7-4253-8701-FCF57EAEAF95_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -113,8 +116,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "0CC51C36-E606-451C-A0CD-64143E7B2D6F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -5,7 +5,6 @@
   "do_objectID": "25004B8F-13DF-46EF-95A4-912C3226C46D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0932EAA9-5BB6-4F5C-872C-FE77B2E4289B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "57D9B178-4C2F-44F8-93F8-41938F6DA474",
     "height": 22,
     "width": 22,
     "x": 481,
     "y": 122
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "74D881DA-D9F4-4D38-BE2D-1A4B289010CB"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -44,6 +41,7 @@
       "id": "16591936-B7B7-44B0-A4DC-F9C5BE892F59"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "baseline-calendar_today-24px",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -55,22 +53,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A06818A3-4FAE-44B8-853E-FF03A4201282",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8.999999761581421,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "ACC58289-1369-4062-8F7D-FAEC9BA321C9",
       "opacity": 0.2918365036231884
     },
     "do_objectID": "0AEFCC06-7D94-4AE8-81DB-CFB0EB3F2300",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

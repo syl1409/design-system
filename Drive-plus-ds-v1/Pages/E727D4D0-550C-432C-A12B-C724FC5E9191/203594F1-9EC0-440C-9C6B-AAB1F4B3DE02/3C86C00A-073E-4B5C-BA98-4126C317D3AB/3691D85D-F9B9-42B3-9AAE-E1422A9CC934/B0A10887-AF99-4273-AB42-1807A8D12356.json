@@ -5,7 +5,6 @@
   "do_objectID": "B0A10887-AF99-4273-AB42-1807A8D12356",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "45930809-4219-4B59-919B-C93B20C40D2E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8CD5BF46-55C4-45A5-954C-F3887D50833E",
     "height": 29,
     "width": 29,
     "x": 0,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Buttons/Circular/only-border",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C4AF4AE5-06C9-4036-A926-359A039EBE92",
+      "do_objectID": "EB88A610-44CB-487F-8BFF-241CA0674A0A",
       "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
       "value": "805F0D05-471C-42F7-9EDA-AD1431D5463D"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C2BFD393-25A7-4330-ABF6-E1EDB4AB2454",
+      "do_objectID": "DE217CC5-04A0-4851-B1C8-2865F483FBCB",
       "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
       "value": ""
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "284BA0A3-F7C1-4593-A981-E422BB80C833",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

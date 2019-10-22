@@ -5,17 +5,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E4FED36C-C50F-47DE-810B-DF3E10F9B126",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1069,
+  "changeIdentifier": 1073,
   "clippingMaskMode": 0,
   "do_objectID": "401E2F5C-11EC-4A5A-9730-70274C85C772",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4A62B7C9-5225-4091-AACF-6E223024BC7C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1D19FAE7-E9F4-4793-A6BF-6EFF0A4578FB",
     "height": 35,
     "width": 35,
     "x": 241,
@@ -41,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "1E7D0BFE-C189-48AF-88A8-4D27EF3E3E5D",
     "guides": [
     ]
   },
@@ -73,6 +69,7 @@
       "id": "0D429DE4-0C53-4F47-A567-6FB1E6A4EAE6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Buttons/Circular/only-border",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -92,6 +89,8 @@
       "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -99,9 +98,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "7450C148-4204-48BB-9B39-9A7EB26B6B29",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -109,7 +146,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0D2C1926-F3EA-44EF-A027-2A0D3F76DC9B",
     "guides": [
     ]
   }

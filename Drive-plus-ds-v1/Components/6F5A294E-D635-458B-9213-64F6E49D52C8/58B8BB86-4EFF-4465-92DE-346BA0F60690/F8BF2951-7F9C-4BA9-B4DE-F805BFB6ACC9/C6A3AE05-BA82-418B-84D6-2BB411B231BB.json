@@ -28,16 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Action-hoer",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "do_objectID": "04546A99-176C-4FE1-8041-B937144BE73E",
       "overrideName": "CF5FBEA5-2730-4AF9-ADE5-7725A16D8EDC_symbolID",
       "value": "56987E65-8269-4DE0-B54C-C9A4B3A617A5"
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "920B745F-A120-411F-8513-77DD7C823FCD",
       "overrideName": "3670DA6C-CA70-4D64-9654-01C18132F5A9_symbolID",
       "value": ""
     }
@@ -58,8 +61,38 @@
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3317631B-88D0-4C5E-88EF-772A15133F75",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

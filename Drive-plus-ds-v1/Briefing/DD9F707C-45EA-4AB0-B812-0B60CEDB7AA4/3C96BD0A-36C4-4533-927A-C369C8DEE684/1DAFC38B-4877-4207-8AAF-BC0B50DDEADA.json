@@ -28,20 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/inputs/vertical/dropdown",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B4254F1F-F227-4BD5-A988-99A78EC6A764",
-      "overrideName": "5C5AD2DC-6EEA-425E-AD3F-274F78B8F1AA_stringValue",
-      "value": "Daimler Global adapt - Mercedes"
+      "do_objectID": "97FF213A-81F5-4FFC-828E-61E2D35495FD",
+      "overrideName": "AB1F831A-693A-45CB-AB10-FA3EEAF1085A_stringValue",
+      "value": "Brief"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F675E126-06DB-4443-82F5-E1B27BF65876",
-      "overrideName": "AB1F831A-693A-45CB-AB10-FA3EEAF1085A_stringValue",
-      "value": "Brief"
+      "do_objectID": "7D5304BB-94DC-491C-8544-30D146A2DE01",
+      "overrideName": "5C5AD2DC-6EEA-425E-AD3F-274F78B8F1AA_stringValue",
+      "value": "Daimler Global adapt - Mercedes"
     }
   ],
   "resizingConstraint": 63,
@@ -51,8 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "54BFCFD6-9CAE-4930-A9D7-5748BC5D0848",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

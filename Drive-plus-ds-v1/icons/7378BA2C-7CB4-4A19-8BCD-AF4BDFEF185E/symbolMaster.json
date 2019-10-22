@@ -14,7 +14,6 @@
   "do_objectID": "7378BA2C-7CB4-4A19-8BCD-AF4BDFEF185E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5DEFCC15-642F-433F-A384-8407CE1865FC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F5B12768-32DA-494B-9CC9-FBB34D8087EE",
     "height": 23,
     "width": 23,
     "x": 717,
@@ -40,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "EAFFAD09-F13F-42EA-B8F9-9E28CF0D7FE6",
     "guides": [
     ]
   },
@@ -60,11 +57,14 @@
       "id": "B2163F8B-0465-4C24-869C-8C43ED93CBE4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Icons/white/SaveIcon",
   "nameIsFixed": true,
   "originalObjectID": "ADAA122C-CFA0-480F-B737-4817B19A37B0",
   "overrideProperties": [
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,9 +72,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "9C90642A-0A07-4E0F-8384-C1CCD98992AC",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -82,7 +120,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "46AFED40-517C-4ECD-B215-F2FC21C2001E",
     "guides": [
     ]
   }

@@ -5,7 +5,6 @@
   "do_objectID": "B04A9BC7-BA22-4370-BA3A-0CF30D9EA998",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "643343A9-FBC4-44F9-A07A-FDE7E20C5604",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "5F8A98F7-EA33-485A-AEE6-A66A2BA3B51D",
     "height": 15,
     "width": 15,
     "x": 34,
@@ -43,6 +41,7 @@
       "id": "DF0A791C-8C77-4A03-AFF9-0B48AFC64819"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Badge Copy 2",
   "nameIsFixed": true,
   "originalObjectID": "393E8C77-4278-44A2-B5E3-7204EB7DDB04",
@@ -55,16 +54,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "D62BD270-5D5B-45C5-BA82-DF17642DCA3E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 6.99999988079071,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "44B3D701-0AD9-4A8F-890F-A91861847DA9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

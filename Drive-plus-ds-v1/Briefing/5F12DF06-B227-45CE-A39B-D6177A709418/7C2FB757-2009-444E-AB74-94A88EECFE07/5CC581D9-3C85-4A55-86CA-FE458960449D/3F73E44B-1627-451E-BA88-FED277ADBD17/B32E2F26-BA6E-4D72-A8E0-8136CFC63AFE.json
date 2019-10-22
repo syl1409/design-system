@@ -5,7 +5,6 @@
   "do_objectID": "B32E2F26-BA6E-4D72-A8E0-8136CFC63AFE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "53D5E8D9-35E1-4A01-82EE-F311FB3E0135",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C4B055F9-5C81-4555-984F-361F38A7FF40",
     "height": 24,
     "width": 24,
     "x": 0,
@@ -30,16 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "action-1",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "do_objectID": "6740E61F-99EC-43F9-B989-65E3E5D57A05",
       "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
       "value": "F285167B-1EC9-47D3-92FF-6EADFAC254E7"
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "2BBB715B-7539-462A-9538-EED7AAA027FF",
       "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
       "value": ""
     }
@@ -51,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "F298FAFB-9D42-4AE0-A1C2-6BB5CF8E9E3A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

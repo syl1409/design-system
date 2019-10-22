@@ -14,7 +14,6 @@
   "do_objectID": "68DCA329-55C0-432A-9E85-FDFA96CACADB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FE6DCAB0-79BB-4B5C-B021-D327CB933A8E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5670F811-50C2-4315-A039-69EDD416FA2B",
     "height": 25,
     "width": 25,
     "x": 833,
@@ -40,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3D896E71-0C12-4E01-8D6D-9D5DC7A859C1",
     "guides": [
     ]
   },
@@ -64,6 +61,7 @@
       "id": "F6E8A544-1D5F-470B-848F-45A8BAB9422A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Icons/white/closeIcon",
   "nameIsFixed": true,
   "originalObjectID": "9D17B3E9-C9E8-4944-A13E-3E4B75881141",
@@ -74,6 +72,8 @@
       "overrideName": "F6E8A544-1D5F-470B-848F-45A8BAB9422A_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,6 +81,38 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C52A2078-FA56-4A59-A9EA-C309AA65E021",
     "endMarkerType": 0,
     "fills": [
@@ -93,7 +125,43 @@
           "green": 1,
           "red": 1
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -101,7 +169,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -109,7 +181,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D891E911-65A8-4E43-A6DF-0163CA5225EC",
     "guides": [
     ]
   }

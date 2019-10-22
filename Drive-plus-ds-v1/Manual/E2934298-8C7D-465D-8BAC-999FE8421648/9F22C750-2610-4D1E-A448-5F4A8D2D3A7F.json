@@ -1,0 +1,152 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1310,
+        "location": 0
+      }
+    ],
+    "string": "<div class=\"modal darkBack\" tabindex=\"-1\" role=\"dialog\">\n  <div class=\"boxModal col-md-6 offset-md-3 col-sm-6 offset-sm-3 col-12\">\n    <div class=\"headerBox\" [ngStyle]=\"themeConfig.mainBackground\">\n      <p><i class=\"material-icons\">layers</i><span>Duplicate center</span></p>\n      <a class=\"ic-app-close\" (click)=\"close()\">x</a>\n    </div>\n    <div class=\"bodyBox\">\n      <p>\n        Which elements of the project \"{{ projectName }}\" do you want to\n        duplicate?\n      </p>\n\n      <ul>\n        <li>\n          <div class=\"checkboxContainer\">\n            <input type=\"checkbox\" [(ngModel)]=\"options.tables\" />\n            <span class=\"checkmark\"> <i class=\"material-icons\">check</i> </span>\n            <span>Tables</span>\n          </div>\n        </li>\n        <li>\n          <div class=\"checkboxContainer\">\n            <input type=\"checkbox\" [(ngModel)]=\"options.team\" />\n            <span class=\"checkmark\"> <i class=\"material-icons\">check</i> </span>\n            <span>Users</span>\n          </div>\n        </li>\n      </ul>\n    </div>\n    <div class=\"footerBox\">\n      <button class=\"gralBtn\" (click)=\"duplicate()\" [disabled]=\"loading\" \n\t[ngStyle]=\"themeConfig.buttonsBackground\">\n        Duplicate\n      </button>\n      <img *ngIf=\"loading\" src=\"{{ loadingImageSrc }}\" />\n    </div>\n  </div>\n</div>\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F22C750-2610-4D1E-A448-5F4A8D2D3A7F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1BC9F00-3A9B-427B-A622-63EF968C1FD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3E4CDCB-82DA-4653-8EBE-7FE86F04A402",
+    "height": 694,
+    "width": 679,
+    "x": 167,
+    "y": 684
+  },
+  "glyphBounds": "{{0, 3}, {559, 679}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
+  "name": "<div class=\"modal da",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DC17D9E7-5246-4234-A886-FCB3CD7B0070",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "23402447-4B4F-4766-A59F-14BB8A1EEE0A",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "AB1A2A51-10AB-419B-B40C-25BC794CC51D",
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F7E0593B-66CF-44D4-A753-87800FA57B83",
+      "opacity": 1
+    },
+    "do_objectID": "517280C4-FF0C-4341-8AC3-6E87157D0075",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8FA5A314-63FD-46EF-B866-1926981F6B4C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "272E973D-E326-470A-8D51-81CD54EFB816",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "0620A02F-2987-4CE1-BC62-5A229CE3E0AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D8069663-1D84-467F-905B-C9797FC72C55",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D57D5A6D-DAD5-40EF-98FD-89D5F64C293F",
     "height": 23,
     "width": 23,
     "x": 415,
@@ -41,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D36574E0-B370-4D53-830C-9A574F39E524",
     "guides": [
     ]
   },
@@ -61,11 +57,14 @@
       "id": "F3AB5B69-2BE9-4905-963C-F949035352FE"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Icons/Blue/see",
   "nameIsFixed": true,
   "originalObjectID": "B20FDF4A-3C87-4143-BCAC-AD1B2EFE8A28",
   "overrideProperties": [
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,9 +72,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "D8ADFC29-1246-4E9E-BE48-25CB35A5BBE7",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -83,7 +120,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A91A7F81-0092-4E50-B14F-3D3D86BF30B7",
     "guides": [
     ]
   }

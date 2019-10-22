@@ -5,7 +5,6 @@
   "do_objectID": "CE1DDF76-C08F-4164-B40F-404C1BC3D483",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "74FED74E-71F0-4B70-AFB6-A5AD80060C5E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "63208DB1-2B11-42FE-B95A-B65DF85036B2",
     "height": 24,
     "width": 24,
     "x": 0,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "action-1",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A10F76B6-FA06-429D-8BF1-C7CB199695B5",
+      "do_objectID": "3FB81AF0-2A45-4935-B658-658FE54601C9",
       "overrideName": "BDC5A61B-BCCA-49AB-9F60-4441C2F1D6DF_symbolID",
       "value": "F285167B-1EC9-47D3-92FF-6EADFAC254E7"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "577A5B10-A62D-4A94-B0AA-117AEE4B9F11",
+      "do_objectID": "1548087A-FF8C-4012-84B5-8B839B4E3874",
       "overrideName": "6B56D48B-8B53-452D-9F01-952D9138B7ED_symbolID",
       "value": ""
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "91051D45-2F1F-456F-AD50-A682BB222AB9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

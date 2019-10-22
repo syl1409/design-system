@@ -5,7 +5,6 @@
   "do_objectID": "4A1FE9B3-B565-4F1E-B34D-D71C0BDA2EF2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F626AD84-D113-4BE1-9C11-D59D09485990",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1CDDA9CC-EE49-4601-B4AB-DCFBB9246307",
     "height": 121,
     "width": 266,
     "x": 362,
@@ -30,24 +28,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/product-card Copy 4",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3FC9B355-6AB5-494A-ACA0-6128054CF19B",
-      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
-      "value": "26A33C3C-1263-4969-9ABA-0B47E193FCED"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "04C79529-BC06-4381-98CD-FBAE6E305F45",
       "overrideName": "E5B4A200-18B9-46CF-8CFF-868A5736027E_stringValue",
       "value": "Web UI/UX design"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6DF152C9-1906-4501-A218-8CAEBA425A94",
+      "do_objectID": "A522CC3D-B14E-4D30-A271-26E8D2FA5E0A",
+      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
+      "value": "26A33C3C-1263-4969-9ABA-0B47E193FCED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16FB965C-58F3-4CD3-AF3A-C830A0415322",
       "overrideName": "1EA00DEF-4D8E-45BD-BE76-7E1538A7E409/84E09E06-51E7-4567-A9ED-671F08FF8804_stringValue",
       "value": "Web UI/UX design"
     }
@@ -59,9 +57,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "AE16B169-BDCA-4BF6-B79A-337E6AC57A29",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

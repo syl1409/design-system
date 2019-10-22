@@ -5,7 +5,6 @@
   "do_objectID": "ED3DC438-4DD2-4522-9BFA-15A696571539",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7204D166-5E20-421A-BF1E-79BB340D6762",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B189E3D-C66C-4B2B-A10D-A9D162639190",
     "height": 17,
     "width": 96,
     "x": 300,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/Label-tag Copy 15",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "87A452F9-7C62-4B7D-BCF8-E6256C33D38B",
       "overrideName": "25B7C008-AE0B-4E6C-A1A1-FEF51362F95C_symbolID",
       "value": "50230B12-05FA-4F44-88A9-9546EA4B1A03"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "59EC5EB0-0B5A-4BE5-8701-C97EB303D252",
       "overrideName": "ED8B4680-BFF3-4BB7-A24E-C41CB066AD94_stringValue",
       "value": "Quantity Field"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "92C8B240-0E08-42E1-9929-C27E28FB107C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

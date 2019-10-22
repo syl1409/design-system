@@ -5,7 +5,6 @@
   "do_objectID": "4145EDA8-F520-4EF1-A031-D12AFD8A6102",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5DA0B6DC-EF31-4B86-A4E7-9AB689411A1F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5B1798D1-A69D-40AF-9B31-113AA1692E2C",
     "height": 213,
     "width": 542,
     "x": 21,
     "y": 69
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "8B64577B-4962-48CB-BD67-E734F52AAFC5"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -116,6 +113,7 @@
       "id": "60E04C0B-61CA-4DA6-9664-5C179A297FF7"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Asset in chat Whindow",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -124,9 +122,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "3892F7AB-BD52-423B-94C0-45B55CD1D1C1",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

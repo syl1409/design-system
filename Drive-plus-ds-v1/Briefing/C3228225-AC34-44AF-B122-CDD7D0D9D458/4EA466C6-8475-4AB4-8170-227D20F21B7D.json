@@ -5,7 +5,6 @@
   "do_objectID": "4EA466C6-8475-4AB4-8170-227D20F21B7D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7B3EDC0C-585D-4D2B-A4B4-BB76DDA7F02D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0ADA66CD-F459-4168-9389-4967499135C4",
     "height": 121,
     "width": 266,
     "x": 651,
@@ -30,24 +28,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/product-card Copy 5",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3FC9B355-6AB5-494A-ACA0-6128054CF19B",
-      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
-      "value": "AC1F6794-A2E4-4C4F-ADB0-5C5BAE74D9D1"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "04C79529-BC06-4381-98CD-FBAE6E305F45",
       "overrideName": "E5B4A200-18B9-46CF-8CFF-868A5736027E_stringValue",
       "value": "Flyer design"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "406FA9D4-435C-49ED-959B-7F9286933146",
+      "do_objectID": "E4FCBB21-A583-4DC1-A3C8-8C2017F7E231",
+      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
+      "value": "AC1F6794-A2E4-4C4F-ADB0-5C5BAE74D9D1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42B26BA2-3432-4965-A24F-3A7D9018E66C",
       "overrideName": "1EA00DEF-4D8E-45BD-BE76-7E1538A7E409/84E09E06-51E7-4567-A9ED-671F08FF8804_stringValue",
       "value": "Flyer design"
     }
@@ -59,9 +57,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B1433455-A516-4DD3-990C-D86396DD6E4C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -5,7 +5,6 @@
   "do_objectID": "C43C9EE2-1BB9-4405-ABA3-62FE8B6133A7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A8BA210B-3D9F-4E51-A764-49602433CBA5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4080B265-82D4-4D1B-BDC4-BC497448E402",
     "height": 121,
     "width": 266,
     "x": 938,
@@ -30,24 +28,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/product-card Copy 6",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3FC9B355-6AB5-494A-ACA0-6128054CF19B",
-      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
-      "value": "26A33C3C-1263-4969-9ABA-0B47E193FCED"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "04C79529-BC06-4381-98CD-FBAE6E305F45",
       "overrideName": "E5B4A200-18B9-46CF-8CFF-868A5736027E_stringValue",
       "value": "TV Comercial"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5A687966-48E5-4F8A-BB91-3F7372D3467E",
+      "do_objectID": "C55955DD-E064-4DD1-8158-535108AFAAB4",
+      "overrideName": "1E28110D-E5B3-4DC7-B600-53AE32832B0D_symbolID",
+      "value": "26A33C3C-1263-4969-9ABA-0B47E193FCED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC5B39FB-E14B-413D-AF00-DBF483ABDFA3",
       "overrideName": "1EA00DEF-4D8E-45BD-BE76-7E1538A7E409/84E09E06-51E7-4567-A9ED-671F08FF8804_stringValue",
       "value": "TVC Commercial"
     }
@@ -59,9 +57,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "04A6EB64-75E7-402F-A7A8-61931FF75756",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

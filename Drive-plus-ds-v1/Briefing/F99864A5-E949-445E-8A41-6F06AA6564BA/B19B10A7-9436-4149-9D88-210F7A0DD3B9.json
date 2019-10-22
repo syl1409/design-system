@@ -5,7 +5,6 @@
   "do_objectID": "B19B10A7-9436-4149-9D88-210F7A0DD3B9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "606D3EF8-B40F-402B-8DED-8E2AE52541B0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C8D03567-A1E7-441E-9AD9-F1D2920E524E",
     "height": 236,
     "width": 266,
     "x": 363,
@@ -30,24 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/my-brief-card Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7C2931FC-708D-43ED-9E69-E6805F145328",
-      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/25B7C008-AE0B-4E6C-A1A1-FEF51362F95C_symbolID",
-      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "FE310ECA-82B6-4658-B124-BE9CBE1EFE30",
-      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/ED8B4680-BFF3-4BB7-A24E-C41CB066AD94_stringValue",
-      "value": "Published"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "60F1A24B-4B12-4891-8FA8-684D52B60B1E",
       "overrideName": "80506935-DEBF-48DB-917A-5D4B1BC6A156/B1724F61-5B2A-4413-88D9-C6F8C3F1D709_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -57,13 +43,25 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1760CA37-1786-4F46-97C6-1024E998A7F1",
+      "do_objectID": "1977A64B-57FB-4CAC-9158-383ABD7D4036",
+      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/25B7C008-AE0B-4E6C-A1A1-FEF51362F95C_symbolID",
+      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A91E96C-8DF3-43C4-9C5C-A56692978103",
       "overrideName": "80506935-DEBF-48DB-917A-5D4B1BC6A156/88DC848F-2FC8-4A1D-910D-E25949A50D24_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/599f0e8fb0a9e16147f0dac9c5a60404b2c56e2a.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9789E41-5F34-4864-BBB7-D7E229C73F9F",
+      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/ED8B4680-BFF3-4BB7-A24E-C41CB066AD94_stringValue",
+      "value": "Published"
     }
   ],
   "resizingConstraint": 63,
@@ -73,9 +71,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "EAE1DDA4-16B2-4833-8709-B7E42762F592",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

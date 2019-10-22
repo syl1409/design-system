@@ -5,7 +5,6 @@
   "do_objectID": "518AA25F-D9ED-44A8-A8CA-6D3DA4F38828",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FD68D4B8-BDF7-4F8D-8336-2C35DE728C94",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FF84D3A2-1238-49EF-98BF-D3B36A2F0B8B",
     "height": 25,
     "width": 103,
     "x": 122,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Component/Label-tag Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "52CA620A-B95D-4C73-887D-94446F2D5BBD",
       "overrideName": "4B70B0A0-B299-4CC2-9309-2F285B6FF218_symbolID",
       "value": "50230B12-05FA-4F44-88A9-9546EA4B1A03"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "008DA73B-8EA7-4DFB-9CFE-BAC590AB983E",
       "overrideName": "42D4F8AB-2CDA-47BF-ADC4-9273ECFC0495_stringValue",
       "value": "Mercedes    | x"
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "094291F8-00A5-4197-A88D-CB5203B6B1F5",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

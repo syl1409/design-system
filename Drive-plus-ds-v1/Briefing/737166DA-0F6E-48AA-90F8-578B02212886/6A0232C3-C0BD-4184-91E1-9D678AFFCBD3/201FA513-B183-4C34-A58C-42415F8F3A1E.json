@@ -5,7 +5,6 @@
   "do_objectID": "201FA513-B183-4C34-A58C-42415F8F3A1E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FE13DD95-5B1D-478B-8EB0-CF6B36D0EACD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "77144580-F380-4703-A844-869E8A8DA974",
     "height": 55,
     "width": 177,
     "x": 0,
@@ -30,24 +28,25 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/country-hover-card Copy 8",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B28D2815-E619-4F52-8799-928BFCF0A33D",
+      "do_objectID": "D3992FA0-2E8B-422E-BA7C-1283AA72212B",
       "overrideName": "FA212AC4-16B3-449D-ABA9-7A222C255554_symbolID",
       "value": "540F27ED-05BB-49F7-A8FB-8A4890907E63"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3B6ED4DD-2FF3-46E8-AF22-0FE9D5E00120",
+      "do_objectID": "D231D2A7-9709-4160-A0C1-03EF836D6B23",
       "overrideName": "F28BB33A-29AE-495B-AE81-1AC542505290_stringValue",
       "value": "Hungary"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DEE918FF-4F17-4E3B-B962-99018CEC1894",
+      "do_objectID": "3597BE49-ED9E-40B0-A54F-7217C980A960",
       "overrideName": "86E64922-0592-4A69-9596-461C03D387B7_stringValue",
       "value": "HUN"
     }
@@ -59,9 +58,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "84AF8A9E-70D7-4E23-9DBE-726493ADFD88",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -28,33 +28,39 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Component/basic-info",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "do_objectID": "26DE51DF-0D07-4CC8-8981-A1825642C016",
       "overrideName": "5F2AEDE7-5F17-41C4-9650-B865C44A815E_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "70EB541E-F09E-4EEB-A37B-ECCFF0379FFF",
       "overrideName": "432B2548-3222-4A85-BEC5-355724FB2482_symbolID",
       "value": "D981CBBC-2BB3-4167-9BB0-BC2A828429A2"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "D85B38BC-908C-4849-AFB2-DB89F03CFC62_stringValue",
-      "value": " "
+      "do_objectID": "2E501432-0161-4CCC-9798-E031FC64BF34",
+      "overrideName": "64BD544B-2D72-402E-8EB3-7DAE70416AB0_stringValue",
+      "value": "FRA"
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "AFD2DA74-7837-4248-A654-016724B83053",
       "overrideName": "80E3811F-0F22-4F88-9FD4-D147CD107CCF_stringValue",
       "value": "Daimler Global adapt"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "64BD544B-2D72-402E-8EB3-7DAE70416AB0_stringValue",
-      "value": "FRA"
+      "do_objectID": "E7168070-51F5-4738-9D63-8187E30DC44E",
+      "overrideName": "D85B38BC-908C-4849-AFB2-DB89F03CFC62_stringValue",
+      "value": " "
     }
   ],
   "resizingConstraint": 63,
@@ -64,8 +70,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "306A52ED-AAF3-4996-B423-B6E1FFCF1C8E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

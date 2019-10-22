@@ -5,7 +5,6 @@
   "do_objectID": "3FEEF4D2-ADB1-41C6-8056-E0E124548024",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C29DF7FC-C21F-40D2-804D-7ADA8E741B49",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "374B3B47-0E37-4658-B2AE-AB2DB7542664",
     "height": 236,
     "width": 266,
     "x": 649,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/my-brief-card Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CF369D61-FA3D-4D60-91B5-FDC2F73E1642",
-      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/ED8B4680-BFF3-4BB7-A24E-C41CB066AD94_stringValue",
-      "value": "Published"
+      "do_objectID": "CD833C5A-6F59-4214-82E0-33EB3D94B041",
+      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/25B7C008-AE0B-4E6C-A1A1-FEF51362F95C_symbolID",
+      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E3522EAA-20E4-45FD-A6B6-E40FA5D3D5AF",
+      "do_objectID": "36B672A4-215B-4EA0-9AA0-2864FD224F82",
       "overrideName": "80506935-DEBF-48DB-917A-5D4B1BC6A156/88DC848F-2FC8-4A1D-910D-E25949A50D24_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -51,9 +50,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9A971B49-1123-4DB1-8840-619CA124EF83",
-      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/25B7C008-AE0B-4E6C-A1A1-FEF51362F95C_symbolID",
-      "value": "28D045E2-90D8-4841-B17A-D7F98F0E5448"
+      "do_objectID": "38BB268B-0411-4FAC-A0B0-C0D346795917",
+      "overrideName": "880E0682-5D6C-4601-867C-A691A87E0206/ED8B4680-BFF3-4BB7-A24E-C41CB066AD94_stringValue",
+      "value": "Published"
     }
   ],
   "resizingConstraint": 63,
@@ -63,9 +62,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "0F261AEA-3D36-4C9C-9155-A7A895A2226A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

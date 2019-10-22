@@ -5,7 +5,6 @@
   "do_objectID": "C8B5700C-0C82-4A2E-A4D9-9AF816C40C7E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "94FBD9A1-087C-4AC4-AD22-F76FB6F9EEC8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C9CD5C1A-1D0A-4817-9388-13742212B22F",
     "height": 786,
     "width": 585,
     "x": 694,
     "y": 107
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "B4C8FE69-5564-4819-A903-D7E618F8BB4D"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -144,6 +141,7 @@
       "id": "4969E510-04D4-40CE-B8FD-1FF54EF15CC0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Chat Window",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -152,9 +150,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "E9CE9B47-83F8-4937-B4CF-D39244D87D0F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

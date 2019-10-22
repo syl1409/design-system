@@ -5,7 +5,6 @@
   "do_objectID": "3325B844-94CE-40FC-B6DD-8F8793BD416C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "557D0E7F-F9F5-4E64-9426-0CBC1091D500",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EE466B89-703C-4441-ACAE-F22A780433EC",
     "height": 61,
     "width": 852,
     "x": 98,
@@ -30,18 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Component/inputs/vertical/text Copy 10",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "01E69CEE-F90B-4679-9D99-E210E3E45BC6",
       "overrideName": "3873EF62-728B-4887-A136-6085A210F1E6_stringValue",
       "value": "Adaptation des 2 master 'A-Class Summer 2019-1' et A-Class summer 2019-2"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2C9534AE-F7E2-4C75-8153-C330EBB9C4CD",
       "overrideName": "62DE7A87-EF31-4163-8B5C-99A2B2831F9E_stringValue",
       "value": " "
     }
@@ -53,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "AAB4185A-12AC-4333-956A-74A84692FB91",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

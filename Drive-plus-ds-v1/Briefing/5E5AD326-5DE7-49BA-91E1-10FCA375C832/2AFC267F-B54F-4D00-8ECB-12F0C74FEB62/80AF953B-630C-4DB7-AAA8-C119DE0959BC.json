@@ -5,7 +5,6 @@
   "do_objectID": "80AF953B-630C-4DB7-AAA8-C119DE0959BC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2894A1EB-6FA6-4DFC-BCC7-DB1E9C7DBE4F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D86ED36E-A788-4E1C-ADF8-6BCB77876D3A",
     "height": 28,
     "width": 85,
     "x": 165,
@@ -30,6 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Button & dropdown/button 2 Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
@@ -49,16 +48,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "7F70C10D-84CF-4554-AF12-A7BC2186FA2D",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 6.99999988079071,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8C8D72A3-4DF8-4672-8FC7-950825F066CD",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -14,7 +14,6 @@
   "do_objectID": "EBE725AA-50E8-44B7-8F2A-780522E50780",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E247FAC8-B55B-4805-87A1-180DAB647FA2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -34,7 +33,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5FFC3F54-9336-45C3-BEA6-A0452B64EA26",
     "height": 74,
     "width": 74,
     "x": 8730,
@@ -49,7 +47,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "AB8CB51C-67F0-4DEA-BB69-AD342DFD3229",
     "guides": [
     ]
   },
@@ -77,6 +74,7 @@
       "id": "B7B9E762-23AA-4E20-B72D-6C7F2B9AFCB4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Icons2/urlbannerIcon-failed",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -86,6 +84,8 @@
       "overrideName": "B7B9E762-23AA-4E20-B72D-6C7F2B9AFCB4_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,9 +93,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "6E440934-F942-43F0-81C4-09FEC3DF0DA0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -103,7 +141,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "89357BC5-6D3E-4ED6-AB90-28E592B79A7E",
     "guides": [
     ]
   }

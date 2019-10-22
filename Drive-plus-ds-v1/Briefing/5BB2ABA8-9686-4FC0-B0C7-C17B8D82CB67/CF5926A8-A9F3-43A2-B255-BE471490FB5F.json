@@ -5,7 +5,6 @@
   "do_objectID": "CF5926A8-A9F3-43A2-B255-BE471490FB5F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D055DE5E-0E21-409B-A226-172251A47202",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "29DA68B8-7A83-4E19-805F-2EDF9A633AEB",
     "height": 158,
     "width": 266,
     "x": 938,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/Config-brief-card Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AF0A98A2-3CB1-4BF7-B685-361830D7B8F5",
+      "do_objectID": "04B25080-6B9D-4785-ADCF-EE38B81BB306",
       "overrideName": "90FD9474-F4A7-4096-80B0-1B4EF14CF554_symbolID",
       "value": "AC1F6794-A2E4-4C4F-ADB0-5C5BAE74D9D1"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D1F4F3F0-B3D5-4910-B602-19C6AD33424C",
+      "do_objectID": "7C5B6B19-27BB-40C4-8797-6E9924E27010",
       "overrideName": "F318CFD8-C1A8-4A37-9DEC-90FC7EF64AD8_stringValue",
       "value": "Nestle Creative"
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "1D862848-D2AF-41B7-BE47-0576F90C563A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

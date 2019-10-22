@@ -5,7 +5,6 @@
   "do_objectID": "27913CF0-CDC4-4B5E-A786-E1C1957C6797",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5E88941-73BE-4FAB-B0C9-9E9C21DB1BFF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "95C81ED8-369C-4A7A-8CC5-003041CE1223",
     "height": 158,
     "width": 266,
     "x": 650,
@@ -30,18 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/Config-brief-card Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "586CF16F-976A-476E-810C-B63E69C35B15",
+      "do_objectID": "5AD74574-3661-4C0A-902E-8E6036C76735",
       "overrideName": "90FD9474-F4A7-4096-80B0-1B4EF14CF554_symbolID",
       "value": "F802E8C4-95F5-4DC7-9243-701118020138"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "515B89B6-8CD2-4800-87F4-0BBFD1C5722C",
+      "do_objectID": "D7198EC7-D4AE-4A47-A496-FF67E73B835C",
       "overrideName": "F318CFD8-C1A8-4A37-9DEC-90FC7EF64AD8_stringValue",
       "value": "Pure Water Adapt"
     }
@@ -53,9 +52,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "A88CC146-C415-4242-94D5-B7D2177401E0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

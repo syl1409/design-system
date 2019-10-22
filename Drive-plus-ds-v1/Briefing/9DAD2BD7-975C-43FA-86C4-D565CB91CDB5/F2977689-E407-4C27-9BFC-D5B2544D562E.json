@@ -5,7 +5,6 @@
   "do_objectID": "F2977689-E407-4C27-9BFC-D5B2544D562E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3B9BD5A9-48D2-4402-9046-619853714FB7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D5360928-698B-4750-B882-D97ADCA5EE28",
     "height": 30,
     "width": 179,
     "x": 1046,
@@ -30,32 +28,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Buttons/rectangular-button",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "048EC1AA-CAAF-4966-B4D9-5E6B822339F2",
-      "overrideName": "10E330FB-D48B-48B7-AF20-F5B0222C6C2E_stringValue",
-      "value": "Return to all products"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7877D575-91E2-40F0-AA5A-43FA3D73E7E5",
+      "do_objectID": "94EE9460-E1A1-48F3-93F7-D0E9F26D341F",
       "overrideName": "1DC74EC2-F18D-4025-8073-F4AAF064F499_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B71DA4D8-A534-4B5D-8982-A444608F5CFC",
+      "do_objectID": "5F18110D-593A-4380-A467-50F49A81322D",
       "overrideName": "399A9A52-FF69-4456-85FD-A10FE9A5D240_symbolID",
       "value": "C3FC8101-046E-4145-B188-396629EFE599"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "05D528C7-AADB-44ED-BCFF-E041EFDE4948",
+      "do_objectID": "E8CAEA05-D628-4ABE-80B5-E1C0E83DF65F",
       "overrideName": "399A9A52-FF69-4456-85FD-A10FE9A5D240/B2F25CD7-6511-4906-A510-DB3F98C842FA_symbolID",
       "value": "23D403AD-9353-4757-B770-0C4C33947402"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0412369-2447-4E99-AE08-CBF9871C06FD",
+      "overrideName": "10E330FB-D48B-48B7-AF20-F5B0222C6C2E_stringValue",
+      "value": "Return to all products"
     }
   ],
   "resizingConstraint": 63,
@@ -65,9 +64,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "2CCBF7EF-AC09-477E-9C6A-33CC2B8EE1F6",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

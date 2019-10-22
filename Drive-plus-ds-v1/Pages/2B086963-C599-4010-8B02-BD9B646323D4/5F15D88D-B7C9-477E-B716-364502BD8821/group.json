@@ -5,7 +5,6 @@
   "do_objectID": "5F15D88D-B7C9-477E-B716-364502BD8821",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E91C23E3-2118-4098-9262-AD532FC451D9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D4419C7C-BACA-46D3-85B9-0F34DCF98438",
     "height": 75,
     "width": 135,
     "x": 756,
@@ -43,6 +41,7 @@
       "id": "B71BD806-D3C6-4558-99B6-1B68254D38B6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Captura de pantalla 2018-07-03 a las 9.34.04 AM",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -51,9 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "4F667B3A-0D47-4832-A2AB-B63E5CC12627",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

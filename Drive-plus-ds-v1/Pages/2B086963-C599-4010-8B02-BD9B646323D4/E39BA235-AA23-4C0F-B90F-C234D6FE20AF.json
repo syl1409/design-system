@@ -5,7 +5,6 @@
   "do_objectID": "E39BA235-AA23-4C0F-B90F-C234D6FE20AF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "26C5411C-B700-470B-ABBB-7A6D81BB90F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "177981A8-2A86-4D84-A352-6132D1261A79",
     "height": 88,
     "width": 1339,
     "x": -10,
@@ -30,13 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "subHeaderProject",
   "nameIsFixed": false,
   "originalObjectID": "7E7FA13C-3D45-4C43-82AD-DBCB12E9571E",
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F914AD94-DD2E-4DAA-8E5D-90B8973D284B",
+      "do_objectID": "BAD1C592-0673-4AFF-A014-CC14D84CE793",
       "overrideName": "FB2DD4E3-A516-4EA1-8A7B-219C85DA7594/80E3811F-0F22-4F88-9FD4-D147CD107CCF_stringValue",
       "value": "Project france ete le"
     }
@@ -48,9 +47,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8400C07D-1C92-443E-B4F2-3EAC8FC7F7CE",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

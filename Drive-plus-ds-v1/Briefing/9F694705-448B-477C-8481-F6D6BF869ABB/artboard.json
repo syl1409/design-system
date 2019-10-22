@@ -12,7 +12,6 @@
   "do_objectID": "9F694705-448B-477C-8481-F6D6BF869ABB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3458C92B-AB11-43E1-9041-AE38F2FFD811",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -32,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B506EF56-0B69-4760-9E4C-7D93B7746DD2",
     "height": 1215,
     "width": 1280,
     "x": 3069,
@@ -40,14 +38,12 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "0001AEDA-FFCD-4C02-983D-985D0108E6D0",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9445ADD0-BD47-4B27-8DB7-6DD02232DDB1"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "6CB9FC3B-59B4-462C-A754-003D97435D46",
     "guides": [
       77,
       148,
@@ -151,10 +146,6 @@
       "id": "0DDE2123-4E1E-4093-9A21-86003B28BCD9"
     },
     {
-      "class": "group",
-      "id": "14947E21-CE47-4E0D-82B0-1F37C382C6F5"
-    },
-    {
       "class": "symbolInstance",
       "id": "B21C0F09-B4A4-48E1-BB6C-B18EC7F0E443"
     },
@@ -236,15 +227,7 @@
     },
     {
       "class": "rectangle",
-      "id": "29DAEECC-4352-47F8-9D0A-4A4D3EBA9C7F"
-    },
-    {
-      "class": "rectangle",
       "id": "118C553A-2DE6-461F-A967-8471AC378879"
-    },
-    {
-      "class": "group",
-      "id": "006978C5-62E0-4280-A7BE-2703439FA538"
     },
     {
       "class": "text",
@@ -470,7 +453,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 74,
-    "do_objectID": "15E29C04-84DE-4A53-8F72-585A2E44B995",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -483,8 +465,11 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1150
   },
+  "maintainScrollPosition": false,
   "name": "New product",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -492,16 +477,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "6282260A-8B04-4E2A-8DB9-28277F855335",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 105,
-    "do_objectID": "AC0AF38A-D07F-45DA-8686-E328A25C69C2",
     "guides": [
       728,
       553,

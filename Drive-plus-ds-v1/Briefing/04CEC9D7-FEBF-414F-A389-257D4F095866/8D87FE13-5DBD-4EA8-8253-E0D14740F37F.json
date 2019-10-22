@@ -5,7 +5,6 @@
   "do_objectID": "8D87FE13-5DBD-4EA8-8253-E0D14740F37F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A4C9652F-B556-4F0A-A8FC-385DC4423996",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1DD6E93-A035-4BEF-84C8-9A80D5A369B2",
     "height": 43,
     "width": 404,
     "x": 86,
@@ -30,38 +28,39 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Component/basic-info",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0770CED8-CA0C-4606-8E5E-A5DE8775C202",
+      "do_objectID": "AAB7826D-9084-4688-A9DC-04302E1E3182",
       "overrideName": "5F2AEDE7-5F17-41C4-9650-B865C44A815E_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2EB4D0A3-B0E0-4A74-8EFE-852E177FAAE8",
+      "do_objectID": "9A872830-880A-4B34-82CF-E9A14800F249",
       "overrideName": "432B2548-3222-4A85-BEC5-355724FB2482_symbolID",
       "value": "D981CBBC-2BB3-4167-9BB0-BC2A828429A2"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1F4157C0-2BF6-411A-977D-2570999E2D40",
-      "overrideName": "D85B38BC-908C-4849-AFB2-DB89F03CFC62_stringValue",
-      "value": " "
+      "do_objectID": "B5FEFF01-BA49-4A49-811B-8DD5D534C24A",
+      "overrideName": "64BD544B-2D72-402E-8EB3-7DAE70416AB0_stringValue",
+      "value": "FRA"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E2D29BB6-CB70-4401-989B-AA4E44CD4DA8",
+      "do_objectID": "B8159617-087A-4D9C-B940-0B82CDB795E1",
       "overrideName": "80E3811F-0F22-4F88-9FD4-D147CD107CCF_stringValue",
       "value": "Daimler Global adapt"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "338114D9-542A-4C06-BF81-D675EFD3F597",
-      "overrideName": "64BD544B-2D72-402E-8EB3-7DAE70416AB0_stringValue",
-      "value": "FRA"
+      "do_objectID": "F5E47FF5-F30B-445F-856C-EB6DBE701784",
+      "overrideName": "D85B38BC-908C-4849-AFB2-DB89F03CFC62_stringValue",
+      "value": " "
     }
   ],
   "resizingConstraint": 63,
@@ -71,9 +70,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "0A3DA2F2-4538-46F3-89F9-AD941C6C66B2",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

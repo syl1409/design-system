@@ -5,7 +5,6 @@
   "do_objectID": "8024CEEC-88B3-4AE6-AB84-246D2C711169",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "00FAD5C4-519A-46EC-8F90-D8B04A281914",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F9678C2F-58CD-4B6F-A42E-991CF0A756F6",
     "height": 55,
     "width": 177,
     "x": 189,
@@ -30,26 +28,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Components/country-hover-card Copy 9",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A21856F1-4E83-402A-9D77-AF9317ECA7DC",
-      "overrideName": "86E64922-0592-4A69-9596-461C03D387B7_stringValue",
-      "value": "ISL"
+      "do_objectID": "E710CFD4-F729-4C78-ACDD-32599B42485C",
+      "overrideName": "FA212AC4-16B3-449D-ABA9-7A222C255554_symbolID",
+      "value": "3F401844-0F35-4101-8731-1615A01C8FB8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "59EF5415-3A22-4646-B84D-944EF5BF7DE1",
+      "do_objectID": "7BCB618E-9821-4468-A24B-42C736306F56",
       "overrideName": "F28BB33A-29AE-495B-AE81-1AC542505290_stringValue",
       "value": "Icelande"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FF888357-9799-4447-BB06-95D7C037121B",
-      "overrideName": "FA212AC4-16B3-449D-ABA9-7A222C255554_symbolID",
-      "value": "3F401844-0F35-4101-8731-1615A01C8FB8"
+      "do_objectID": "257FD3C1-615B-4097-A71A-3F371F3E27AE",
+      "overrideName": "86E64922-0592-4A69-9596-461C03D387B7_stringValue",
+      "value": "ISL"
     }
   ],
   "resizingConstraint": 63,
@@ -59,9 +58,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "586CCC22-7F17-4877-B290-5C592EF0364E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
