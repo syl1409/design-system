@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 116,
+        "length": 672,
         "location": 0
       }
     ],
-    "string": "  this.notificationService.showError(\n              returnedError.originalError.error.OldPassword[0]\n            );\n"
+    "string": "    this.confirmService.confirm(\n      `Are you sure you want to delete this comment ?`,\n      () => {\n        this.assetCommentsService\n          .deleteComment(\n            this.projectDetailService.projectId,\n            this.assetInfo,\n            comment\n          )\n          .subscribe(\n            () => {\n              this.ngOnInit();\n              this.notificationService.showConfirm(\n                \"Comment deleted successfully.\"\n              );\n            },\n            error =>\n              this.notificationService.showError(\n                \"There was an error while deleting the comment.\"\n              )\n          );\n      },\n      () => {}\n    );"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DAE5D454-DFD8-402F-B2B9-5D8E06335BE8",
-    "height": 191,
-    "width": 258,
-    "x": 523,
-    "y": 2705
+    "height": 481,
+    "width": 355,
+    "x": 465,
+    "y": 2692
   },
-  "glyphBounds": "{{0, 3}, {257, 88}}",
+  "glyphBounds": "{{0, 3}, {330, 466}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "this.notificationSer",
+  "name": "this.confirmService.",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
