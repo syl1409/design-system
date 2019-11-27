@@ -22,15 +22,16 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 189,
+        "length": 150,
         "location": 0
       }
     ],
-    "string": "<div class=\"notification-form\" *ngIf=\"notification\">\n      The generated link must be copied before closing the form or it will be lost. \n\t<span (click)=\"close()\">Close anyway<span>\n</div>\n"
+    "string": "<app-local-notification\n\t[message]=\"'The changes will be saved automatically'\" \n\t[type]=\"'info'\"\n\t[icon]=\"'info_outline'\">\n</app-local-notification>\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "6D79757B-DAD4-43FD-896E-6FCA4C073892",
     "height": 88,
-    "width": 833,
-    "x": 35,
-    "y": 1215
+    "width": 766,
+    "x": 52,
+    "y": 1212
   },
-  "glyphBounds": "{{0, 3}, {538, 67}}",
+  "glyphBounds": "{{0, 3}, {403, 105}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "<div class=\"notifica",
+  "name": "<app-local-notificat",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -140,6 +141,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

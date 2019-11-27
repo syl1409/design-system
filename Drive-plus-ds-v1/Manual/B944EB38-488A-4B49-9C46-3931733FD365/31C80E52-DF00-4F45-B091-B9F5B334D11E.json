@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 201,
+        "length": 128,
         "location": 0
       }
     ],
-    "string": "<label>text example</label>\n<ng-select\n\tclass=\"dropdownProyect\"\n\t[items]=\"userDropdown\"\n\tplaceholder=\"select user\"\n\tbindLabel=\"name\"\n    \tbindValue=\"id\"\n\tname=\"userId\"\n\tngModel\n\trequired>\n</ng-select>\n"
+    "string": "<input \n\ttype=\"radio\" \n\tid=\"test1\" \n\tname=\"radio-group\" \n\t[checked] = “yourVariable”\n\t>\n   <label for=\"test1\">\n\t\tApple\n</label>\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 665,
     "y": 892
   },
-  "glyphBounds": "{{0, 3}, {207, 196}}",
+  "glyphBounds": "{{0, 3}, {208, 157}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "<label>text example< copy",
+  "name": "<input type=\"radio\"",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

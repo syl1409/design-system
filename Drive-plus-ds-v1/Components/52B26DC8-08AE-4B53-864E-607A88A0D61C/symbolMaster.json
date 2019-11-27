@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2786,
+  "changeIdentifier": 3020,
   "clippingMaskMode": 0,
   "do_objectID": "52B26DC8-08AE-4B53-864E-607A88A0D61C",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "71764760-67E9-4F9A-86BB-44A8546BB339",
     "height": 71,
     "width": 1280,
-    "x": 4247,
-    "y": -31
+    "x": -816,
+    "y": -3639
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -72,6 +72,21 @@
       "id": "A9DC916E-F9EF-4135-8DAD-FA6F2F61126B"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 160,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "maintainScrollPosition": false,
   "name": "Components/core/header",
   "nameIsFixed": true,

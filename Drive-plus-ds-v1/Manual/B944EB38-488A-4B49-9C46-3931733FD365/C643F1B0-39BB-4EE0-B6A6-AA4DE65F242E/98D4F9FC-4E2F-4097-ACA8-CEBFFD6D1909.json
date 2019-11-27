@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
+              "name": "HelveticaNeue",
               "size": 22
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Text inputs"
+    "string": "Inputs"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 106,
+    "height": 27,
+    "width": 62,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {105, 21}}",
+  "glyphBounds": "{{1, 5}, {60, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
   "maintainScrollPosition": false,
-  "name": "Text inputs",
+  "name": "Inputs",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -126,7 +126,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "HelveticaNeue",
             "size": 22
           }
         },
