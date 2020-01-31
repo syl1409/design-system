@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 817,
-    "width": 436,
-    "x": 844,
+    "width": 1280,
+    "x": 0,
     "y": -52
   },
   "groupLayout": {
@@ -29,36 +29,36 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
+  "isVisible": false,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "EEFD19B4-C33E-444E-B58A-68814D2543CB"
+      "class": "group",
+      "id": "8E74E462-C37E-4DFF-BCF1-C723F47EB082"
     },
     {
-      "class": "group",
-      "id": "56F1AE60-60A2-4EBC-9BE1-DF8A189D20E2"
+      "class": "rectangle",
+      "id": "427F8226-A6CC-4C29-9285-B5800EFB66F7"
     },
     {
-      "class": "group",
-      "id": "FD6F70E0-2A0C-4A75-B323-B3825CC10139"
-    },
-    {
-      "class": "group",
-      "id": "D492651C-8492-4CEB-877C-85DB42B2CF4A"
+      "class": "rectangle",
+      "id": "597E00F6-2DD4-4620-A017-3F6553957CF7"
     },
     {
       "class": "symbolInstance",
-      "id": "D571B4C1-709F-4EE8-899D-A94685098C5D"
+      "id": "0BB8E7F4-BA9F-4135-83E3-B55820173AA9"
     },
     {
       "class": "group",
-      "id": "C6B03414-6EB4-4C64-AD3B-9930D4EDD92C"
+      "id": "FBAF65CF-2D27-461B-9EFC-84422BA554B8"
     },
     {
-      "class": "group",
-      "id": "FC4B51D5-5034-4115-A509-F2909A4B3AC6"
+      "class": "symbolInstance",
+      "id": "49290226-671A-49E3-8812-B42992BB3A6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BE3EEC9-4D63-4D3B-B439-4C3165D4A275"
     },
     {
       "class": "symbolInstance",
@@ -66,23 +66,11 @@
     },
     {
       "class": "group",
-      "id": "DF5084BA-9FA5-4336-A789-5A2512130EF4"
-    },
-    {
-      "class": "group",
-      "id": "4C350C26-D442-4342-A1DC-BEFE34E6428E"
-    },
-    {
-      "class": "group",
-      "id": "3CE2C718-75F5-486C-AA13-E3EA86A6AD41"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3C7C38F4-6909-4FAF-A531-00FE4589CCD8"
+      "id": "7B198FB7-FC3F-4E4D-B2EF-26086CFA18B3"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "click-open-lateral-panel",
+  "name": "click-close-lateral-panel",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
