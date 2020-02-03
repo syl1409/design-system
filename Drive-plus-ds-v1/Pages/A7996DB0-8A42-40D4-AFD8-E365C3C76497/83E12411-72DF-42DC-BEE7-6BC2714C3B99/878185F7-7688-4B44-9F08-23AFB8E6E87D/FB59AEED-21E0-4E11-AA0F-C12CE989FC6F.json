@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CBE9E642-D578-4D51-85C3-D69041579323",
+  "do_objectID": "FB59AEED-21E0-4E11-AA0F-C12CE989FC6F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B1BBF95B-F809-415D-AF11-2F57F619EC8B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 1,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F6FBA98F-C929-4D8B-86BA-C8BA1DA910FB",
-    "height": 74,
-    "width": 330,
+    "height": 88,
+    "width": 383,
     "x": 0,
-    "y": 0
+    "y": 64
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -32,16 +30,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Rectangle 15 Copy 2",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 1,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -51,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 1,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -61,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 1,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -71,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 1,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -89,7 +87,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "75914677-A26F-46E6-9D3C-33EA8B36F633",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -100,7 +97,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "E5CC3155-DBB4-4AC8-9BC4-7064DF95B8C5",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -111,9 +107,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9115114795918368,
-          "green": 0.9115114795918368,
-          "red": 0.9115114795918368
+          "blue": 0.9725490196078431,
+          "green": 0.541176470588235,
+          "red": 0.3921568627450981
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -153,36 +149,33 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 1,
-        "thickness": 0
+        "position": 0,
+        "thickness": 3
       }
     ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "2C4FD75C-587C-4298-8001-ED60844E2A89",
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "F3C076B3-F88B-4697-A5B3-6905447DECD2",
-      "opacity": 1
+      "opacity": 0.6661086309523809
     },
-    "do_objectID": "97CF263E-24FF-4FC8-8EBF-1AA55CBBB4D5",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8987563775510204,
-          "green": 0.8987563775510204,
-          "red": 0.8987563775510204
+          "alpha": 0.4563756555944056,
+          "blue": 0.9725490196078431,
+          "green": 0.541176470588235,
+          "red": 0.3921568627450981
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

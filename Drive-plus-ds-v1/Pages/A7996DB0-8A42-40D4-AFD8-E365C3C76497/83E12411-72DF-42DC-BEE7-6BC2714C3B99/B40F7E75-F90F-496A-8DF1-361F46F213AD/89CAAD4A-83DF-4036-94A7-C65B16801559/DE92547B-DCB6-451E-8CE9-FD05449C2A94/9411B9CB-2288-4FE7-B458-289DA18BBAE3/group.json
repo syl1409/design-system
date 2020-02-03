@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "94EA3367-A409-47EF-8AE9-E6E1C3D5E6F9",
+  "do_objectID": "9411B9CB-2288-4FE7-B458-289DA18BBAE3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
-    "width": 10,
+    "height": 46,
+    "width": 338,
     "x": 0,
-    "y": 0.5
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "365B6DD5-0510-4D00-B771-A2914C8E355A"
+      "class": "group",
+      "id": "045A766C-B62A-406B-ABF4-3662C6330DE1"
     },
     {
-      "class": "symbolInstance",
-      "id": "FD269DBF-DFEC-4E23-A9FD-988EB337F092"
+      "class": "shapePath",
+      "id": "6EB46059-DFB0-48E6-BD90-7740B55DD3A7"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Colors/Gradients/pink",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,7 +74,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +82,6 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "61BE397D-0D8E-4202-87FD-5B559FB30B55",
     "endMarkerType": 0,
     "fills": [
     ],

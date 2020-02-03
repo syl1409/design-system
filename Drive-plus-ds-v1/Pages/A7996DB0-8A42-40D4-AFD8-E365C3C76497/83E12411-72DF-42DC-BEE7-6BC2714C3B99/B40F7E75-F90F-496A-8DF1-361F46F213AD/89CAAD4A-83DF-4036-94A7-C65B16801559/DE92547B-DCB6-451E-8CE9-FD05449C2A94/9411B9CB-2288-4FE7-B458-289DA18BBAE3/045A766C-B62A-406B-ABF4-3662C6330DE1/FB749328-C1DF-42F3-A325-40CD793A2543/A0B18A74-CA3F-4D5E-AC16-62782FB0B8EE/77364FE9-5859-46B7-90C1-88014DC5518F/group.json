@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D07F3053-AB1C-4246-9AAB-E003A08CABF9",
+  "do_objectID": "77364FE9-5859-46B7-90C1-88014DC5518F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3D73DCC2-BDEA-42DD-8384-29ED5BE6928A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,51 +15,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B6D0C66E-F387-4900-AC8B-FE639D4AEE52",
-    "height": 28,
-    "width": 28,
-    "x": 345,
-    "y": 5
+    "height": 16,
+    "width": 22,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "Buttons/Rectangular/only-icon",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "6445E9E0-10C4-44EF-AC6A-208704A5AFE7",
-      "overrideName": "2615A520-62A8-4734-993A-7E771472AEB9_symbolID",
-      "value": "742F634A-2362-46BE-A82F-D9707E4A889E"
+      "class": "shapePath",
+      "id": "EDDB7D47-D099-40A2-B32B-B1691B31D9D0"
     },
     {
-      "_class": "overrideValue",
-      "do_objectID": "12717BF9-D3CD-4C4A-99EF-F452A1BF5076",
-      "overrideName": "2615A520-62A8-4734-993A-7E771472AEB9/5B2A7C63-3B72-4BAE-9383-7DF1A940C4B6_symbolID",
-      "value": "23D403AD-9353-4757-B770-0C4C33947402"
+      "class": "shapePath",
+      "id": "ED337A7F-651C-4FCE-9B9C-06C1781B32F6"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.8899999856948853,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "CEAF5BCA-4913-469E-9806-795984E6FAA7",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 8.899999856948853,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -68,7 +63,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "1DA11DC0-260A-4144-9AB2-8978CCE425FC",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -79,18 +73,15 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "4A82967A-3C73-43B8-ACF4-99FFBAAD8CE1",
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "20E50DB6-2BB2-4170-AD61-1605C475438B",
       "opacity": 1
     },
-    "do_objectID": "060166EE-F7A8-4DB6-B3E9-BD22C3F2D28F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -101,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "06D9781C-147C-4073-9F10-C7F8659047C3",
-  "verticalSpacing": 0
+  }
 }
