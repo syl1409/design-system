@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 55,
+  "clippingMaskMode": 0,
   "do_objectID": "FAF6A286-68FD-4854-9572-320857C3D750",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,8 +38,12 @@
     "x": 456,
     "y": 18483
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -66,6 +72,13 @@
   ],
   "name": "ic_local_hospital",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A93A398E-E861-47E0-8722-97A2067B8121_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

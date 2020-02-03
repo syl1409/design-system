@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 55,
+  "clippingMaskMode": 0,
   "do_objectID": "F8C7DAE8-7A8D-482E-A851-02E73E3A39D5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,8 +38,12 @@
     "x": 608,
     "y": 18483
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -66,6 +72,13 @@
   ],
   "name": "ic_local_hotel",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A3858C6A-6F7E-4F77-A525-A6521AC701A0_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

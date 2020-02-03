@@ -50,7 +50,7 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 151,
+        "length": 137,
         "location": 33
       },
       {
@@ -75,8 +75,8 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 35,
-        "location": 184
+        "length": 34,
+        "location": 170
       },
       {
         "_class": "stringAttribute",
@@ -100,111 +100,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 60,
-        "location": 219
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-LightItalic",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 20,
-        "location": 279
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 41,
-        "location": 299
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-LightItalic",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 37,
-        "location": 340
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 216,
-        "location": 377
+        "length": 205,
+        "location": 204
       }
     ],
-    "string": "// import theme model and service\nimport { ThemeConfiguration } from \"../../themes/shared/theme-configuration\";\nimport { ThemesService } from \"../../themes/shared/themes.service\";\n\n// Call the service on the constructor\n  constructor( private themeService: ThemesService ) {}\n\n// Create the variable\n  themeConfig: ThemeConfiguration;  \n\n// Start the theme service on the init\n\nngOnInit() {\n    this.themeService.themeLoaded.subscribe(() => {\n      // get styles based on the theme to be used in this component\n      this.themeConfig = this.themeService.getCurrentThemeConfiguration();\n    });"
+    "string": "// import theme model and service\nimport { ThemesService } from \"../../themes/shared/themes.service\";\nimport { BaseComponent } from \"../../core/base/base.component\";\n\n// Extends BaseComponent on the class\nexport class BrandEditComponent extends BaseComponent implements OnInit {\n\n  constructor( public themeService: ThemesService ) {\n    super(themeService);\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n  }\n\n}\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -213,7 +113,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0031BB63-4F2C-47DB-8378-F4370FB987A8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -224,13 +123,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5294587B-62B5-4AFE-AF47-B30B1332977D",
-    "height": 293.2651672363281,
+    "height": 309.8590698242188,
     "width": 573,
     "x": 54,
-    "y": 500
+    "y": 569
   },
-  "glyphBounds": "{{-2, 2}, {473, 291}}",
+  "glyphBounds": "{{-2, 2}, {489, 291}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -239,6 +137,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
+  "maintainScrollPosition": false,
   "name": "// import theme mode",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -247,13 +146,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B7C7215F-207E-4CCE-8380-B0CBED2B5BA4",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4324E113-7C38-43C2-8BB3-AAFD155B7A41",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

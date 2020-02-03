@@ -40,7 +40,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FE14C8B6-9246-44F9-A08B-F82D0E863A36",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,11 +50,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "331BCE88-710D-4F20-BB23-C70A5FE47931",
     "height": 40,
-    "width": 88.36553992288057,
+    "width": 88,
     "x": 86,
-    "y": 1532
+    "y": 1631
   },
   "glyphBounds": "{{1, 4}, {84, 36}}",
   "hasClippingMask": false,
@@ -66,6 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "Border-1 .border-gra",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -74,13 +73,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "7DE7790A-381C-4C39-AD1C-0CD80BFA6583",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "14D6FA17-4613-489B-8D15-38122ADB1437",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

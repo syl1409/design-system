@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": ".text-gray\n#212529"
+    "string": ".gray-font\n#212529"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 37,
-    "width": 66,
+    "width": 67,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {66, 30}}",
+  "glyphBounds": "{{0, 3}, {66, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": ".text-gray #212529",
+  "maintainScrollPosition": false,
+  "name": ".gray-font #212529",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,8 +72,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3E1C4FD7-B9A1-48D9-969A-1A27CEFD36CD",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

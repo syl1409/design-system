@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
+              "name": "Roboto-Regular",
               "size": 22
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Error message"
+    "string": "Action message"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 143,
-    "x": 0,
-    "y": 0
+    "height": 25,
+    "width": 159,
+    "x": 15,
+    "y": 123
   },
-  "glyphBounds": "{{0, 0}, {143, 27}}",
+  "glyphBounds": "{{0, 4}, {158, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,16 +62,56 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Error message",
+  "maintainScrollPosition": false,
+  "name": "Action message",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BCE0BE4C-7E30-4253-957A-62031A50EC97",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -79,14 +119,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.200000003,
+          "green": 0.200000003,
+          "red": 0.200000003
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Semibold",
+            "name": "Roboto-Regular",
             "size": 22
           }
         },

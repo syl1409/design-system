@@ -108,11 +108,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 7,
         "location": 13
       }
     ],
-    "string": "3 Brands | 1 project "
+    "string": "3 Brands | 1 Briefs "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -132,11 +132,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 115,
-    "x": 76,
-    "y": 60.9999996185303
+    "width": 109,
+    "x": 78,
+    "y": 52.99999961853041
   },
-  "glyphBounds": "{{2, 2}, {111, 13}}",
+  "glyphBounds": "{{2, 2}, {105, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -145,6 +145,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "extra-indo",
   "nameIsFixed": true,
   "resizingConstraint": 47,
@@ -153,8 +154,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "56688852-5C72-4AE3-99FB-35116C30EFC0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

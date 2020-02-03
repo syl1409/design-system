@@ -38,7 +38,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B72992EA-91E1-4464-A5BD-2CCA2A2129AA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,7 +48,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A2561890-03A2-4ED7-B1CD-71F29C4CBAA3",
     "height": 18.464111328125,
     "width": 180,
     "x": 389,
@@ -64,6 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
+  "maintainScrollPosition": false,
   "name": "Badge project owner",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -72,13 +71,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "D6EBCCBE-4464-4179-938E-DB34218AF107",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E07AB4EC-1DE3-4331-BC6B-44830D3AD33C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

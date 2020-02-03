@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Regular",
+              "name": "HelveticaNeue-Light",
               "size": 16
             }
           },
@@ -25,111 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 149,
+        "length": 107,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.200000003,
-            "green": 0.200000003,
-            "red": 0.200000003
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 2,
-        "location": 149
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 11,
-        "location": 151
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.200000003,
-            "green": 0.200000003,
-            "red": 0.200000003
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 6,
-        "location": 162
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "ProximaNova-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 215,
-        "location": 168
       }
     ],
-    "string": "The secondary button is used for actions that are less important than the primary action (if there is one).This button is used for things like Yes / No and Add / Cancel. It also can be used to load more content, like Load more and More news. This button does not have a background fill (if you HAVE to use it on a dark background, the button should be white outline with white texet."
+    "string": "The secondary button is used for actions that are less important than the primary action (if there is one)."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -148,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 81,
+    "height": 18.464111328125,
     "width": 771,
     "x": 0,
-    "y": 30
+    "y": 38
   },
-  "glyphBounds": "{{0, 0}, {771, 81}}",
+  "glyphBounds": "{{-1, 3}, {710, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -162,16 +62,57 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "The secondary button Copy",
+  "maintainScrollPosition": false,
+  "name": "The secondary button",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "84786D70-5708-4F22-8775-117E871709D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4ED4F1CB-3A72-4DCE-AA59-3CC4EC44A4C7",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -179,14 +120,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.200000003,
-          "green": 0.200000003,
-          "red": 0.200000003
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Regular",
+            "name": "HelveticaNeue-Light",
             "size": 16
           }
         },

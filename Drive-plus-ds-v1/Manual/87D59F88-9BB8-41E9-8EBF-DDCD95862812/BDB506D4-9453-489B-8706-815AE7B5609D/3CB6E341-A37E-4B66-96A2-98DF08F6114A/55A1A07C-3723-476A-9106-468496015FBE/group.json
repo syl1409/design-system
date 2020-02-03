@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 79,
-    "width": 129,
-    "x": 1,
-    "y": 3
+    "height": 65,
+    "width": 116,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,16 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "F4B01A16-EA8B-4962-86BB-44FC459752DD"
-    },
-    {
-      "class": "text",
-      "id": "642EC7DC-8ED1-493F-8F68-910AFE082826"
-    },
     {
       "class": "shapePath",
       "id": "BEC9237F-0EC5-45DC-9CCC-75AACDF64EEC"
@@ -49,6 +41,7 @@
       "id": "B26F030F-7AC3-441F-8EED-CE4AA008E8BF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Facebook btn",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -57,8 +50,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BAB9ADE4-7FC2-49F9-913B-78695078619B",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

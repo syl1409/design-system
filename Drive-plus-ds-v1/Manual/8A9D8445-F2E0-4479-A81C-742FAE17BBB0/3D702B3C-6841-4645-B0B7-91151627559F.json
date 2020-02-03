@@ -40,7 +40,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A65A2F28-24A5-49AA-8131-D63EA04F0B62",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5CD1EDD-0E68-4433-A545-D527637C95C2",
     "height": 63,
-    "width": 612,
-    "x": 29,
-    "y": 1125
+    "width": 581,
+    "x": 39,
+    "y": 1194
   },
-  "glyphBounds": "{{0, 6}, {601, 55}}",
+  "glyphBounds": "{{0, 6}, {563, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,6 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "*For the Button colo",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -74,13 +73,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5FD7841F-A3A1-43FC-8AA7-10639969C8A0",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F60885B8-0EEB-41EB-B99F-4BA1E9C9C5C6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

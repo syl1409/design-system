@@ -38,7 +38,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AEB5D651-3B36-4A9C-B7B1-AC20B9485FDC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,11 +48,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F4190384-BA53-48B1-A2A5-870CF5269CEA",
-    "height": 18.464111328125,
-    "width": 88.36553992288057,
+    "height": 18,
+    "width": 88,
     "x": 80,
-    "y": 1984.79
+    "y": 2094
   },
   "glyphBounds": "{{0, 3}, {66, 13}}",
   "hasClippingMask": false,
@@ -64,7 +62,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "#4C87A5 Copy",
+  "maintainScrollPosition": false,
+  "name": "#4C87A5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,13 +71,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "01130281-41AA-4CDB-8FD2-B9BEB703831D",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4776F5E6-15D8-4964-853A-14C4FCB7661E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

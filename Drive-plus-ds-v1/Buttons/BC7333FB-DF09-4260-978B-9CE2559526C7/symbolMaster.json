@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 61,
+  "changeIdentifier": 122,
   "clippingMaskMode": 0,
   "do_objectID": "BC7333FB-DF09-4260-978B-9CE2559526C7",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 31,
     "width": 31,
-    "x": 46,
-    "y": -22
+    "x": 517,
+    "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -65,6 +65,7 @@
       "id": "2615A520-62A8-4734-993A-7E771472AEB9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Buttons/Rectangular/only-icon",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -79,6 +80,8 @@
       "overrideName": "2615A520-62A8-4734-993A-7E771472AEB9_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,8 +89,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F4D83ECB-A562-4D2F-A5B4-0DDEF28F3A8C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

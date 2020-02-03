@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 27,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": ".text-gray--lighter\n#646464"
+    "string": ".light-gray-font\n#646464"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 37,
-    "width": 119,
+    "width": 101,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {119, 31}}",
+  "glyphBounds": "{{0, 3}, {100, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": ".text-gray--lighter",
+  "maintainScrollPosition": false,
+  "name": ".light-gray-font #64",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,8 +72,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "88E68B44-A433-4241-BB48-5502374F37E3",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
