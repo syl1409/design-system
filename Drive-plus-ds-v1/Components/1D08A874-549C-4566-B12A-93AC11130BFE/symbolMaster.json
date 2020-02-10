@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,7 +69,6 @@
       "id": "8ACC0027-BA21-4391-BBFB-F2EF687FA2AE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Components/inputs/horizontal/radio-button-disabled",
   "nameIsFixed": true,
   "overrideProperties": [
