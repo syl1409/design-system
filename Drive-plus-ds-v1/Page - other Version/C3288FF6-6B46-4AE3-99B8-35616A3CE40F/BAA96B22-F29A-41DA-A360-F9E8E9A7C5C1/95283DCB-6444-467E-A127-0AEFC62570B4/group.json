@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "90BF6346-42D8-4321-ABAC-E2660DA57703",
+  "do_objectID": "95283DCB-6444-467E-A127-0AEFC62570B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 1142,
-    "x": 77,
-    "y": 337
+    "height": 209,
+    "width": 1139,
+    "x": 0,
+    "y": 243
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -33,28 +33,28 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "282AF30C-E86C-4346-9A3E-C0A5705C0FB3"
-    },
-    {
       "class": "text",
-      "id": "5B944DBD-99C1-461B-98B9-E91B06111062"
-    },
-    {
-      "class": "rectangle",
-      "id": "EDFBAEEC-6AFD-4C98-BCB6-3C6AFD7D138F"
-    },
-    {
-      "class": "text",
-      "id": "5042CC0B-5557-42B9-8ABD-0F0778631995"
+      "id": "F711334F-D503-47A4-91CF-5B91498D800C"
     },
     {
       "class": "symbolInstance",
-      "id": "32D49670-8A08-4698-BA3B-88AEAE7532DB"
+      "id": "F0D980F4-B425-42A1-8E77-38920FEE07FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A98E52A8-C886-445B-BC9C-9CF680421D45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E57A6139-101E-4D09-AE8B-11B560BB3BDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0125C42-C431-47CC-AE7A-6CEE0A652E39"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "Assets",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -85,7 +85,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -93,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CE754C6A-2F0F-4E9D-9FBC-3072A5370615",
+    "do_objectID": "A7006021-0A9F-4590-99AB-B9ED59BEF548",
     "endMarkerType": 0,
     "fills": [
     ],

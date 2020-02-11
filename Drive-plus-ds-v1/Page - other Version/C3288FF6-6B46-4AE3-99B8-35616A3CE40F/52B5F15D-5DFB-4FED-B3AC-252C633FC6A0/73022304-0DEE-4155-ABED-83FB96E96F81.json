@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "90BF6346-42D8-4321-ABAC-E2660DA57703",
+  "do_objectID": "73022304-0DEE-4155-ABED-83FB96E96F81",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 1142,
-    "x": 77,
-    "y": 337
+    "height": 65.00000357627869,
+    "width": 65.00000357627869,
+    "x": -18.90000092983246,
+    "y": -21.90000092983246
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "282AF30C-E86C-4346-9A3E-C0A5705C0FB3"
-    },
-    {
-      "class": "text",
-      "id": "5B944DBD-99C1-461B-98B9-E91B06111062"
-    },
-    {
-      "class": "rectangle",
-      "id": "EDFBAEEC-6AFD-4C98-BCB6-3C6AFD7D138F"
-    },
-    {
-      "class": "text",
-      "id": "5042CC0B-5557-42B9-8ABD-0F0778631995"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "32D49670-8A08-4698-BA3B-88AEAE7532DB"
-    }
+  "name": "🎨 Color",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1.300000071525574,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -66,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 13.00000071525574,
       "saturation": 1,
       "type": 0
     },
@@ -93,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CE754C6A-2F0F-4E9D-9FBC-3072A5370615",
+    "do_objectID": "E1C342F3-660D-4ADB-8BA2-F361C948B33B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "23D403AD-9353-4757-B770-0C4C33947402",
+  "verticalSpacing": 0
 }

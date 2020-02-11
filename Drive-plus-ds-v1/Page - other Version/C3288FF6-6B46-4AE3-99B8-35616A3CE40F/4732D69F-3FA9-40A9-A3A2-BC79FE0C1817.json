@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "90BF6346-42D8-4321-ABAC-E2660DA57703",
+  "do_objectID": "4732D69F-3FA9-40A9-A3A2-BC79FE0C1817",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 1142,
-    "x": 77,
-    "y": 337
+    "height": 17,
+    "width": 17,
+    "x": 31,
+    "y": 412
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Regular/file-image",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "282AF30C-E86C-4346-9A3E-C0A5705C0FB3"
-    },
-    {
-      "class": "text",
-      "id": "5B944DBD-99C1-461B-98B9-E91B06111062"
-    },
-    {
-      "class": "rectangle",
-      "id": "EDFBAEEC-6AFD-4C98-BCB6-3C6AFD7D138F"
-    },
-    {
-      "class": "text",
-      "id": "5042CC0B-5557-42B9-8ABD-0F0778631995"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "32D49670-8A08-4698-BA3B-88AEAE7532DB"
+      "_class": "overrideValue",
+      "overrideName": "1F335E98-BBB1-4661-B0F9-6C2320BE0CAD_symbolID",
+      "value": "3A441798-058A-4BFD-8ABC-DCDC275D6E99"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CE754C6A-2F0F-4E9D-9FBC-3072A5370615",
+    "do_objectID": "B17876A8-560F-47A9-A3A4-A5C8B765A36F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -101,8 +84,30 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "0564BC5A-0DC3-428D-B2E4-93B71770BBC8",
+  "verticalSpacing": 0
 }
