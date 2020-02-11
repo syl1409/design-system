@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D1B462D7-3189-4FAA-B51A-3C6228D1A5DB",
+  "do_objectID": "5958E9C1-46B2-4A05-A90F-17B47BFD5F75",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,53 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 452,
-    "width": 1139,
-    "x": 77,
-    "y": 546
+    "height": 28,
+    "width": 28,
+    "x": 102,
+    "y": 35
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "17A7F30A-8736-4E76-8180-ACBB0902DE13"
-    },
-    {
-      "class": "group",
-      "id": "460D5DC9-922A-418E-82ED-C1266064EFB7"
-    },
-    {
-      "class": "text",
-      "id": "9095E6B4-AAFA-4332-AEEB-814B772794E9"
-    },
-    {
-      "class": "group",
-      "id": "CADA1EBA-9617-40FD-873A-2294C64422A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3C98CD01-918F-4221-89C2-C2631795E9A1"
-    },
-    {
-      "class": "group",
-      "id": "4BD9B8B5-9D38-4337-835C-9313390416D6"
-    }
+  "name": "Buttons/Rectangular/only-icon",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "header-assets-explorer",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0.8999999761581421,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.999999761581421,
       "saturation": 1,
       "type": 0
     },
@@ -89,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -97,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DEE15B78-4757-4F7C-B368-3C2E9609B984",
+    "do_objectID": "62E7F504-52F0-43DF-8CA7-F9994E444B01",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "06D9781C-147C-4073-9F10-C7F8659047C3",
+  "verticalSpacing": 0
 }

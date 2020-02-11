@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9CB2039F-A7C8-4F3D-820E-209FFE047453",
+  "do_objectID": "85DCE304-E79A-40BE-B169-2DCDCE5FB46A",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,11 +16,11 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 1109,
-    "width": 1280,
-    "x": 1,
-    "y": 73
+    "constrainProportions": true,
+    "height": 26,
+    "width": 26,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle 2",
+  "name": "Rectangle 6",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -106,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8777901785714286,
-          "green": 0.8777901785714286,
-          "red": 0.8777901785714286
+          "blue": 0.7796821853741497,
+          "green": 0.7796821853741497,
+          "red": 0.7796821853741497
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5D57D06B-C813-4356-9B2E-8B89BFE39017",
+    "do_objectID": "55C2D08F-76B7-44DF-9E9A-1947A6C0DA63",
     "endMarkerType": 0,
     "fills": [
       {
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9371545493197279,
-          "green": 0.9371545493197279,
-          "red": 0.9371545493197279
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -214,7 +214,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -225,26 +225,6 @@
     ],
     "miterLimit": 10,
     "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
