@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -264,6 +264,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
+  "maintainScrollPosition": false,
   "name": "Upload Confirmation Modal",
   "nameIsFixed": true,
   "presetDictionary": {
