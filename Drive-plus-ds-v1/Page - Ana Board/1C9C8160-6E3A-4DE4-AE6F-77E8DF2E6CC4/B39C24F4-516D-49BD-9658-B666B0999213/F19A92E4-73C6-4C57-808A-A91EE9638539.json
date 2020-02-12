@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5DA4DE7F-89EC-4AF6-B30D-05C83394B8C7",
+  "do_objectID": "F19A92E4-73C6-4C57-808A-A91EE9638539",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 108,
-    "width": 251,
-    "x": 884,
-    "y": 96
+    "height": 24,
+    "width": 110,
+    "x": 363,
+    "y": 398
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "button-upload-assets copy 4",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "1645F613-ACD1-4233-94B7-F70A56738AC0"
-    },
-    {
-      "class": "bitmap",
-      "id": "04443778-F83F-4CB2-9902-0F785F3F3895"
-    },
-    {
-      "class": "rectangle",
-      "id": "FAEFFA36-8C74-4DAE-9869-F759C5CFAEBC"
+      "_class": "overrideValue",
+      "overrideName": "B8100453-2AB2-4848-89FA-3731B0C12819_stringValue",
+      "value": "Delet all"
     }
   ],
-  "name": "Bitmap Copy 4",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,7 +49,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20.28000303745285,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -77,7 +68,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -85,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "64A5078A-54E7-411F-8FEB-88183CCABF5A",
+    "do_objectID": "ABC9A913-D274-4691-8BE4-1EF6D6842749",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "119C598D-FCB4-4827-9817-FD2151337F76",
+  "verticalSpacing": 0
 }
