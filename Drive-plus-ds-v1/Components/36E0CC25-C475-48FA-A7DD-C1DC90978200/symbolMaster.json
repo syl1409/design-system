@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "BCC51770-849D-423A-954B-A9DCC5FC0092"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Components/inputs/horizontal/text-disabled",
   "nameIsFixed": true,
   "overrideProperties": [

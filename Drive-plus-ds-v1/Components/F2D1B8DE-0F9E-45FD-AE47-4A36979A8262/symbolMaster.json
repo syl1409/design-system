@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,7 +69,6 @@
       "id": "0E0BE4A8-28D3-4368-866D-29F849038121"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Components/inputs/horizontal/checkbox-active",
   "nameIsFixed": true,
   "overrideProperties": [

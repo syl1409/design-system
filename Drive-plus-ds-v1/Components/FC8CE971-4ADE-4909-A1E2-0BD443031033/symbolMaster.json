@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "7358A3DD-05CC-4298-9E93-DEE0D546AA2C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Components/inputs/switch-inactive",
   "nameIsFixed": true,
   "overrideProperties": [
