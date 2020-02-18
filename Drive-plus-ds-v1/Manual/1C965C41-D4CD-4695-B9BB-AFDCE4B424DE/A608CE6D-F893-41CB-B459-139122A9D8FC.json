@@ -1,0 +1,248 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 46,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 44,
+        "location": 46
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 325,
+        "location": 90
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 39,
+        "location": 415
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1603,
+        "location": 454
+      }
+    ],
+    "string": "<div class=\"cnt-pagination txt-right popup\">\n\n<!--Dropdown to choose elements per page-->\n\n    \t<div class=\"inputPag\">\n      \t\t\t<ng-select\n       \t\t (change)=\"onChange($event)\"\n       \t\t [searchable]=\"false\"\n       \t\t class=\"dropdownProyect\"\n       \t\t [items]=\"itemsPaginationDrop\"\n       \t\t [placeholder]=\"config.itemsPerPage\"\n       \t\t bindLabel=\"name\"\n        \t\tbindValue=\"value\">\n      </ng-select>\n    </div>\n\n<!-- List of numbers on the pager -->\n\n    <div class=\"pags\">\n      <pagination-template\n        #p=\"paginationApi\"\n        [id]=\"config.id\"\n        previousLabel=\" \"\n        nextLabel=\" \"\n        screenReaderPaginationLabel=\"Pagination\"\n        screenReaderPageLabel=\"page\"\n        screenReaderCurrentLabel=\"You're on page \"\n        (pageChange)=\"onPageChange($event)\"\n      >\n        <ul class=\"ngx-pagination\" role=\"navigation\" aria-label=\"Pagination\">\n          <li class=\"paginationEspecial\" [class.disabled]=\"p.isFirstPage()\">\n            <a (click)=\"p.setCurrent(1)\"><<</a>\n          </li>\n          <li class=\"pagination-previous\" [class.disabled]=\"p.isFirstPage()\">\n            <a *ngIf=\"!p.isFirstPage()\" (click)=\"p.previous()\"> </a>\n          </li>\n\n          <li\n            *ngFor=\"let page of p.pages\"\n            [class.nocurrent]=\"p.getCurrent() !== page.value\"\n            [ngStyle]=\"themeConfig.buttonsBackground\"\n          >\n            <a\n              (click)=\"p.setCurrent(page.value)\"\n              *ngIf=\"p.getCurrent() !== page.value\"\n            >\n              <span>{{ page.label }}</span>\n            </a>\n            <div *ngIf=\"p.getCurrent() === page.value\">\n              <span>{{ page.label }}</span>\n            </div>\n          </li>\n\n          <li class=\"pagination-next\" [class.disabled]=\"p.isLastPage()\">\n            <a *ngIf=\"!p.isLastPage()\" (click)=\"p.next()\"> </a>\n          </li>\n\n          <li class=\"paginationEspecial\" [class.disabled]=\"p.isLastPage()\">\n            <a (click)=\"p.setCurrent(p.getLastPage())\">>></a>\n          </li>\n        </ul>\n      </pagination-template>\n    </div>\n  </div>\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A608CE6D-F893-41CB-B459-139122A9D8FC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1195,
+    "width": 614,
+    "x": 39,
+    "y": 325
+  },
+  "glyphBounds": "{{0, 3}, {510, 1147}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "<div class=\"cnt-pagi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D04D4A66-44BB-431B-BD1B-EBD36313E75A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

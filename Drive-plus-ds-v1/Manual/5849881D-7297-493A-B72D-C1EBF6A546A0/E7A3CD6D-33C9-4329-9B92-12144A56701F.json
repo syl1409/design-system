@@ -1,0 +1,144 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2404,
+        "location": 0
+      }
+    ],
+    "string": "    <ngb-accordion\n        #acc=\"ngbAccordion\"\n        activeIds=\"config-panel-one, config-panel-two\"\n        id=\"project\"\n        [ngClass]=\"'project'\"\n      >\n        <ngb-panel id=\"config-panel-two\">\n          <ng-template ngbPanelTitle>\n            <div class=\"row\">\n<!—Title1—>\n              <span class=\"col-md-5 col-sm-5 col-4\"> <hr /> </span>\n              <span class=\"col-md-2 col-sm-3 col-4 title\">Team</span>\n              <span class=\"col-md-5 col-sm-4 col-4 action\">\n                <hr />\n                <div\n                  class=\"actionStatus\"\n                  [ngStyle]=\"themeConfig.buttonsBackground\"\n                ></div>\n              </span>\n            </div>\n          </ng-template>\n          <ng-template ngbPanelContent>\n<!—content1—>\n            <app-project-team></app-project-team>\n          </ng-template>\n        </ngb-panel>\n\n        <ngb-panel id=\"config-panel-one\">\n          <ng-template ngbPanelTitle>\n<!—Title2—>\n            <div class=\"row\">\n              <span class=\"col-md-5 col-sm-5 col-4\"> <hr /> </span>\n              <span class=\"col-md-2 col-sm-3 col-4 title\">Information</span>\n              <span class=\"col-md-5 col-sm-4 col-4 action\">\n                <hr />\n                <div\n                  class=\"actionStatus\"\n                  [ngStyle]=\"themeConfig.buttonsBackground\"\n                ></div>\n              </span>\n            </div>\n            <div class=\"row\">\n              <ngb-progressbar\n                *ngIf=\"projectLoading\"\n                class=\"col-md-12\"\n                type=\"warning\"\n                [value]=\"loadedTables\"\n                [max]=\"totalTables\"\n                [striped]=\"true\"\n                [animated]=\"true\"\n              >\n                <i> Loaded {{ loadedTables }} of {{ totalTables }} tables</i>\n              </ngb-progressbar>\n            </div>\n          </ng-template>\n          <ng-template ngbPanelContent>\n<!—Cotent2—>\n            <div class=\"dragTableContainer\">\n              <app-table\n                *ngFor=\"let tableId of project?.tables\"\n                id=\"table{{ tableId }}\"\n                [tableId]=\"tableId\"\n                [canEditTable]=\"projectPermissions.canEditProject\"\n                [canEditContent]=\"canEditContent()\"\n                class=\"tableHandle\"\n              ></app-table>\n            </div>\n          </ng-template>\n        </ngb-panel>\n      </ngb-accordion>\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7A3CD6D-33C9-4329-9B92-12144A56701F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1266,
+    "width": 679,
+    "x": 44,
+    "y": 363
+  },
+  "glyphBounds": "{{0, 3}, {509, 1258}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "<ngb-accordion #acc=",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FCA7E65F-7F84-4671-B261-8D300F9959C5",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}
