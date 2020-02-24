@@ -18,7 +18,7 @@
     "height": 178,
     "width": 271,
     "x": 0,
-    "y": 0
+    "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -79,10 +79,22 @@
     {
       "class": "symbolInstance",
       "id": "A7141FF3-57EB-4F77-94DE-6390D890DCC9"
+    },
+    {
+      "class": "group",
+      "id": "E8EAA80D-FCD4-4ABC-8D22-C6948BDD4BC6"
+    },
+    {
+      "class": "group",
+      "id": "9B0966B1-E9B2-4E38-9776-582D4C7C3131"
+    },
+    {
+      "class": "group",
+      "id": "81D82C9B-5702-4BED-AF64-85C698FDAC02"
     }
   ],
-  "name": "card",
-  "nameIsFixed": false,
+  "name": "unselected-view",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
