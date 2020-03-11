@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B2AB3C23-4951-42E5-991C-76692DCEDC32",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,19 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "754BF1D6-560A-41F8-9532-11966D77EAF8"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "83CD48D8-30BE-4165-AC2D-AE06DF9515C8"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "F3126F1C-7CCB-46E6-8059-C6BBB2B15B9B"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "6BADBAC0-EB44-4333-ABC9-59549123A13C"
     },
     {
@@ -54,9 +61,49 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "699FA0A7-0AAA-4FDA-9DF1-BC82FF574499",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

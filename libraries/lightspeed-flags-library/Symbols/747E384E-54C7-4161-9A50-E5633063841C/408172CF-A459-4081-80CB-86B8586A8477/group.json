@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "408172CF-A459-4081-80CB-86B8586A8477",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,23 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A24AB970-BDD0-4438-B2BD-027BF1A96E76"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "40A93B34-075F-47A1-B170-5285E02CB67A"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "57254118-DFB6-4430-B6F9-2A99945CE64E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "32B781F5-7E1D-442C-8296-32C525B8DA54"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "EEACD5DB-E2E3-4E7D-B20E-263A42E58AC3"
     },
     {
@@ -58,9 +65,49 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "77331516-6173-4724-82E5-20C6B13B668E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

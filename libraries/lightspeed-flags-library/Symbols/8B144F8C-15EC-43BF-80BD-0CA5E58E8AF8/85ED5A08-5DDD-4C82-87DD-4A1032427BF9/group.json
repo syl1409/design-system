@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "85ED5A08-5DDD-4C82-87DD-4A1032427BF9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,23 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "CF04C85E-B977-4BA5-9951-A49E7B3FF378"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7E4081A8-EFC1-43A9-B2C7-DFB371B084CC"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B5ABC2FA-33EC-4965-9D67-4C713D39E1A5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1A058C64-743C-4A53-A78F-A66C181C503E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "0A4447C4-CABA-40FF-88D7-E33C40D92796"
     },
     {
@@ -58,9 +65,49 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FE0DBC97-67AC-4BAC-87F0-D939A09C4C03",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

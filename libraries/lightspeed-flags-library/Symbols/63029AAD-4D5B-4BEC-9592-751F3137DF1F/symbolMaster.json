@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +8,9 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
   "changeIdentifier": 84,
+  "clippingMaskMode": 0,
   "do_objectID": "63029AAD-4D5B-4BEC-9592-751F3137DF1F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,6 +28,7 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
+        "name": "",
         "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
@@ -61,8 +65,12 @@
     "x": 349,
     "y": 646
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,6 +80,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -86,6 +95,15 @@
   ],
   "name": "AS",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FDD6FB48-B8B0-4169-9A22-668D3EDCBC64_symbolID"
+    }
+  ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,9 +111,49 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "DEAF6D6C-5495-44FF-B923-A10D9715F2F1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "6149921F-F659-4ABC-AE44-E0004DA58AE0",
   "verticalRulerData": {

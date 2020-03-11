@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E0FF764D-68E6-42EB-844A-4FB943DE4CE9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,31 +33,31 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "9478C71C-D5F4-47EC-A481-5BB7690F0BFA"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5DB3397E-951E-4BD4-A565-6F9328BA2FDD"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "06B700A3-3623-4D4C-B1B4-92AD5A32A89B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "415ECE13-990F-408C-A7DB-3715BABA9DF9"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C5397E92-D62F-41F5-BC8D-71E9CADF9783"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F76766BC-4214-42A2-AFBF-DB731FA62E1B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5C2EC882-0F1D-495A-8A71-934ED3705CD6"
     },
     {
@@ -66,9 +73,49 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "41ED769B-543A-40CD-B902-643DAF19688B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
