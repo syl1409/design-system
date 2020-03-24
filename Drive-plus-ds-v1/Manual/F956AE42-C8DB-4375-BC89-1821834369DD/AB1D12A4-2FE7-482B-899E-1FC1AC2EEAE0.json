@@ -16,27 +16,52 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Light",
-              "size": 16
+              "name": "HelveticaNeue",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 150,
+        "length": 81,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 8,
+        "location": 81
       }
     ],
-    "string": "<app-local-notification\n\t[message]=\"'The changes will be saved automatically'\" \n\t[type]=\"'info'\"\n\t[icon]=\"'info_outline'\">\n</app-local-notification>\n\n"
+    "string": "import { SharedModule } from “@shared/shared.module\";\n\n imports: [SharedModule, ]\n       "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4FB498C1-86ED-4DBC-A907-EEDE4DBEB722",
+  "do_objectID": "AB1D12A4-2FE7-482B-899E-1FC1AC2EEAE0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +75,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 97,
-    "width": 766,
-    "x": 52,
-    "y": 1651
+    "height": 57,
+    "width": 655,
+    "x": 53,
+    "y": 1194
   },
-  "glyphBounds": "{{0, 3}, {403, 105}}",
+  "glyphBounds": "{{0, 2}, {356, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +89,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "<app-local-notificat",
+  "name": "import { SharedModul",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,7 +129,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FACEBD8D-993E-4707-99F3-E05F2301C0DB",
+    "do_objectID": "96FA6773-CF8C-4417-87BC-074A09A87D5D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,13 +152,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Light",
-            "size": 16
+            "name": "HelveticaNeue",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

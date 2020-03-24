@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 672,
+        "length": 1058,
         "location": 0
       }
     ],
-    "string": "    this.confirmService.confirm(\n      `Are you sure you want to delete this comment ?`,\n      () => {\n        this.assetCommentsService\n          .deleteComment(\n            this.projectDetailService.projectId,\n            this.assetInfo,\n            comment\n          )\n          .subscribe(\n            () => {\n              this.ngOnInit();\n              this.notificationService.showConfirm(\n                \"Comment deleted successfully.\"\n              );\n            },\n            error =>\n              this.notificationService.showError(\n                \"There was an error while deleting the comment.\"\n              )\n          );\n      },\n      () => {}\n    );"
+    "string": "import { ConfirmService } from “@shared/confirm-action/confirm-action.service\"; \n<!-- If is a repetitive message add it to the notification messages file and called from here -->\nimport { NotificationMessages } from \"@shared/messages/notification-messages\";  \n\nexport class AssetExplorerComponent {\n\n  constructor( private confirmService: ConfirmService ) {}\n\n}\n\n<!-- example of usage-->\n\n this.confirmService.confirm(\n      `Are you sure you want to delete this comment ?`,\n      () => {\n        this.assetCommentsService\n          .deleteComment(\n            this.projectDetailService.projectId,\n            this.assetInfo,\n            comment\n          )\n          .subscribe(\n            () => {\n              this.ngOnInit();\n              this.notificationService.showConfirm(\n                \"Comment deleted successfully.\"\n              );\n            },\n            error =>\n              this.notificationService.showError(\n                \"There was an error while deleting the comment.\"\n              )\n          );\n      },\n      () => {}\n    );"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 481,
-    "width": 355,
-    "x": 465,
+    "height": 664,
+    "width": 659,
+    "x": 161,
     "y": 2692
   },
-  "glyphBounds": "{{0, 3}, {330, 466}}",
+  "glyphBounds": "{{0, 3}, {632, 646}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "this.confirmService.",
+  "name": "import { ConfirmServ",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

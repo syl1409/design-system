@@ -50,7 +50,7 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 137,
+        "length": 127,
         "location": 33
       },
       {
@@ -76,7 +76,7 @@
           }
         },
         "length": 34,
-        "location": 170
+        "location": 160
       },
       {
         "_class": "stringAttribute",
@@ -101,10 +101,10 @@
           }
         },
         "length": 205,
-        "location": 204
+        "location": 194
       }
     ],
-    "string": "// import theme model and service\nimport { ThemesService } from \"../../themes/shared/themes.service\";\nimport { BaseComponent } from \"../../core/base/base.component\";\n\n// Extends BaseComponent on the class\nexport class BrandEditComponent extends BaseComponent implements OnInit {\n\n  constructor( public themeService: ThemesService ) {\n    super(themeService);\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n  }\n\n}\n\n"
+    "string": "// import theme model and service\nimport { ThemesService } from \"@themes/shared/themes.service\";\nimport { BaseComponent } from \"@core/base/base.component\";\n\n// Extends BaseComponent on the class\nexport class BrandEditComponent extends BaseComponent implements OnInit {\n\n  constructor( public themeService: ThemesService ) {\n    super(themeService);\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n  }\n\n}\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,

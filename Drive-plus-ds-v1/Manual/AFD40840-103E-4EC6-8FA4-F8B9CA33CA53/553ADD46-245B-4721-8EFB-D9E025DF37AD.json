@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 571,
+        "length": 561,
         "location": 0
       }
     ],
-    "string": "import { SortService } from \"../../shared/sort-action/sort-action.service\";\nimport { BaseListComponent } from \"../../core/base-list/base-list.component\";\n\nexport class BrandsListComponent extends BaseListComponent implements OnInit {\n    constructor(\n    public sortService: SortService,\n     ) {\n    super(sortService);\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n    this.configureDefaultSorting();\n    this.loadBrands();\n  }\n\n  configureDefaultSorting() {\n    if (this.order.sort === \"\") {\n      this.order.sort = \"CreatedAt\";\n      this.order.reverse = true;\n    }\n  }}"
+    "string": "import { SortService } from “@shared/sort-action/sort-action.service\";\nimport { BaseListComponent } from “@core/base-list/base-list.component\";\n\nexport class BrandsListComponent extends BaseListComponent implements OnInit {\n    constructor(\n    public sortService: SortService,\n     ) {\n    super(sortService);\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n    this.configureDefaultSorting();\n    this.loadBrands();\n  }\n\n  configureDefaultSorting() {\n    if (this.order.sort === \"\") {\n      this.order.sort = \"CreatedAt\";\n      this.order.reverse = true;\n    }\n  }}"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 56,
     "y": 4362
   },
-  "glyphBounds": "{{0, 3}, {466, 388}}",
+  "glyphBounds": "{{0, 3}, {465, 388}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

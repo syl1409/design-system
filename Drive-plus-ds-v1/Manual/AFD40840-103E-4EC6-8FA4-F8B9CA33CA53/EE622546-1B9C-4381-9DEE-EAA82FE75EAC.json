@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 575,
+        "length": 559,
         "location": 0
       }
     ],
-    "string": "import { FilterHeaderService } from \"../../../shared/filter-header/filter-header.service\";\nimport { FilterEvent } from \"../../../shared/models/filter\";\n\nexport class YourComponent extends BaseListComponent implements OnInit {\n\tfilterargs: any = \"\";\n \t @Input() filterArgsString = false;\n  \tfilterArgument = \"\"\n\nconstructor(private filterHeaderService: FilterHeaderService ) {}\n\nngOnInit() {\n   \n    this.filterargs = this.filterHeaderService.GetFilterObj();\n    this.filterHeaderService.changeOnFilter.subscribe((data: FilterEvent) => {\n   this.filterargs = data;\n    });\n  }"
+    "string": "import { FilterHeaderService } from “@shared/filter-header/filter-header.service\";\nimport { FilterEvent } from “@shared/models/filter\";\n\nexport class YourComponent extends BaseListComponent implements OnInit {\n\tfilterargs: any = \"\";\n \t @Input() filterArgsString = false;\n  \tfilterArgument = \"\"\n\nconstructor(private filterHeaderService: FilterHeaderService ) {}\n\nngOnInit() {\n   \n    this.filterargs = this.filterHeaderService.GetFilterObj();\n    this.filterHeaderService.changeOnFilter.subscribe((data: FilterEvent) => {\n   this.filterargs = data;\n    });\n  }"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 55,
     "y": 5239
   },
-  "glyphBounds": "{{0, 3}, {475, 303}}",
+  "glyphBounds": "{{0, 3}, {475, 286}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

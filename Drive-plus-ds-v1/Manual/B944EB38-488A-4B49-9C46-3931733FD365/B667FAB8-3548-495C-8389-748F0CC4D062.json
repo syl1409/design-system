@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 420,
+        "length": 410,
         "location": 0
       }
     ],
-    "string": "import { BasicSearchService } from \"../../shared/basic-search/basic-search.service\";\nimport { BaseListComponent } from \"../../core/base-list/base-list.component\";\n\nexport class YourComponent extends BaseListComponent implements OnInit {\n\nconstructor(public basicSearchService: BasicSearchService) {\n\n    super(basicSearchService);\n    this.config.id = \"brandsPaginator\";\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n   }\n\n}"
+    "string": "import { BasicSearchService } from “@shared/basic-search/basic-search.service\";\nimport { BaseListComponent } from “@core/base-list/base-list.component\";\n\nexport class YourComponent extends BaseListComponent implements OnInit {\n\nconstructor(public basicSearchService: BasicSearchService) {\n\n    super(basicSearchService);\n    this.config.id = \"brandsPaginator\";\n  }\n\n  ngOnInit() {\n    super.ngOnInit();\n   }\n\n}"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 53,
     "y": 3157
   },
-  "glyphBounds": "{{0, 3}, {475, 286}}",
+  "glyphBounds": "{{0, 3}, {490, 269}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
