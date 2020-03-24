@@ -22,21 +22,77 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 29,
+            "minimumLineHeight": 29,
+            "paragraphSpacing": 16
+          }
         },
-        "length": 150,
+        "length": 102,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 29,
+            "minimumLineHeight": 29,
+            "paragraphSpacing": 16.3
+          }
+        },
+        "length": 112,
+        "location": 102
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 29,
+            "minimumLineHeight": 29
+          }
+        },
+        "length": 5,
+        "location": 214
       }
     ],
-    "string": "<app-local-notification\n\t[message]=\"'The changes will be saved automatically'\" \n\t[type]=\"'info'\"\n\t[icon]=\"'info_outline'\">\n</app-local-notification>\n\n"
+    "string": "Array of type PaginationInstance (only define the ID, other element are defined on BaseListComponent)\nMethod applied when click on specific page, is already defined on BaseListComponent with the name: onPageChange\n\n \n\n "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4FB498C1-86ED-4DBC-A907-EEDE4DBEB722",
+  "do_objectID": "0BC97E86-6C98-41F6-8493-751A127F924C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +106,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 97,
-    "width": 766,
-    "x": 52,
-    "y": 1651
+    "height": 172,
+    "width": 375,
+    "x": 275,
+    "y": 527
   },
-  "glyphBounds": "{{0, 3}, {403, 105}}",
+  "glyphBounds": "{{-1, 9}, {376, 277}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,9 +120,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "<app-local-notificat",
+  "name": "Array of type Pagina",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -104,7 +160,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FACEBD8D-993E-4707-99F3-E05F2301C0DB",
+    "do_objectID": "34C9F5F7-9A83-4C5A-9421-A1767E7603EE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -133,10 +189,11 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 29,
+          "minimumLineHeight": 29,
+          "paragraphSpacing": 16
+        }
       },
       "verticalAlignment": 0
     },

@@ -16,27 +16,27 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Light",
+              "name": "HelveticaNeue",
               "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
         },
-        "length": 150,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "<app-local-notification\n\t[message]=\"'The changes will be saved automatically'\" \n\t[type]=\"'info'\"\n\t[icon]=\"'info_outline'\">\n</app-local-notification>\n\n"
+    "string": "[config]\n\n(onPageChange) \n "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4FB498C1-86ED-4DBC-A907-EEDE4DBEB722",
+  "do_objectID": "893E6F73-F5BC-4E2A-B56C-61EF325B32D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 97,
-    "width": 766,
-    "x": 52,
-    "y": 1651
+    "height": 125,
+    "width": 204,
+    "x": 33,
+    "y": 524
   },
-  "glyphBounds": "{{0, 3}, {403, 105}}",
+  "glyphBounds": "{{0, 13}, {119, 126}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "<app-local-notificat",
+  "name": "[config] (onPageChan",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FACEBD8D-993E-4707-99F3-E05F2301C0DB",
+    "do_objectID": "7FB3EF0B-87A1-4B90-B33E-7FE64951AEC6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,16 +127,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Light",
+            "name": "HelveticaNeue",
             "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 38,
+          "minimumLineHeight": 38
+        }
       },
       "verticalAlignment": 0
     },

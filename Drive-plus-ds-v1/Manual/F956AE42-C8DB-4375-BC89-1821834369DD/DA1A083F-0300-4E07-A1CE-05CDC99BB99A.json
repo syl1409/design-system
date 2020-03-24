@@ -9,34 +9,32 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Light",
-              "size": 16
+              "name": "HelveticaNeue-Medium",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 150,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "<app-local-notification\n\t[message]=\"'The changes will be saved automatically'\" \n\t[type]=\"'info'\"\n\t[icon]=\"'info_outline'\">\n</app-local-notification>\n\n"
+    "string": "moduel.ts file "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4FB498C1-86ED-4DBC-A907-EEDE4DBEB722",
+  "do_objectID": "DA1A083F-0300-4E07-A1CE-05CDC99BB99A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 97,
-    "width": 766,
-    "x": 52,
-    "y": 1651
+    "height": 17,
+    "width": 398,
+    "x": 45,
+    "y": 1160
   },
-  "glyphBounds": "{{0, 3}, {403, 105}}",
+  "glyphBounds": "{{0, 4}, {87, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,8 +61,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "<app-local-notificat",
+  "lineSpacingBehaviour": 0,
+  "name": "moduel.ts file",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FACEBD8D-993E-4707-99F3-E05F2301C0DB",
+    "do_objectID": "152CE8D8-7408-404E-A3CD-0AFB914B19BB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,27 +118,25 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Light",
-            "size": 16
+            "name": "HelveticaNeue-Medium",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

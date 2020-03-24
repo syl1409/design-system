@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 46,
+        "length": 170,
         "location": 0
       },
       {
@@ -42,7 +42,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue",
+              "name": "HelveticaNeue-Medium",
               "size": 16
             }
           },
@@ -52,8 +52,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 44,
-        "location": 46
+        "length": 8,
+        "location": 170
       },
       {
         "_class": "stringAttribute",
@@ -78,8 +78,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 325,
-        "location": 90
+        "length": 19,
+        "location": 178
       },
       {
         "_class": "stringAttribute",
@@ -94,7 +94,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue",
+              "name": "HelveticaNeue-Medium",
               "size": 16
             }
           },
@@ -104,8 +104,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 39,
-        "location": 415
+        "length": 10,
+        "location": 197
       },
       {
         "_class": "stringAttribute",
@@ -130,11 +130,63 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1603,
-        "location": 454
+        "length": 131,
+        "location": 207
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Bold",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 35,
+        "location": 338
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 51,
+        "location": 373
       }
     ],
-    "string": "<div class=\"cnt-pagination txt-right popup\">\n\n<!--Dropdown to choose elements per page-->\n\n    \t<div class=\"inputPag\">\n      \t\t\t<ng-select\n       \t\t (change)=\"onChange($event)\"\n       \t\t [searchable]=\"false\"\n       \t\t class=\"dropdownProyect\"\n       \t\t [items]=\"itemsPaginationDrop\"\n       \t\t [placeholder]=\"config.itemsPerPage\"\n       \t\t bindLabel=\"name\"\n        \t\tbindValue=\"value\">\n      </ng-select>\n    </div>\n\n<!-- List of numbers on the pager -->\n\n    <div class=\"pags\">\n      <pagination-template\n        #p=\"paginationApi\"\n        [id]=\"config.id\"\n        previousLabel=\" \"\n        nextLabel=\" \"\n        screenReaderPaginationLabel=\"Pagination\"\n        screenReaderPageLabel=\"page\"\n        screenReaderCurrentLabel=\"You're on page \"\n        (pageChange)=\"onPageChange($event)\"\n      >\n        <ul class=\"ngx-pagination\" role=\"navigation\" aria-label=\"Pagination\">\n          <li class=\"paginationEspecial\" [class.disabled]=\"p.isFirstPage()\">\n            <a (click)=\"p.setCurrent(1)\"><<</a>\n          </li>\n          <li class=\"pagination-previous\" [class.disabled]=\"p.isFirstPage()\">\n            <a *ngIf=\"!p.isFirstPage()\" (click)=\"p.previous()\"> </a>\n          </li>\n\n          <li\n            *ngFor=\"let page of p.pages\"\n            [class.nocurrent]=\"p.getCurrent() !== page.value\"\n            [ngStyle]=\"themeConfig.buttonsBackground\"\n          >\n            <a\n              (click)=\"p.setCurrent(page.value)\"\n              *ngIf=\"p.getCurrent() !== page.value\"\n            >\n              <span>{{ page.label }}</span>\n            </a>\n            <div *ngIf=\"p.getCurrent() === page.value\">\n              <span>{{ page.label }}</span>\n            </div>\n          </li>\n\n          <li class=\"pagination-next\" [class.disabled]=\"p.isLastPage()\">\n            <a *ngIf=\"!p.isLastPage()\" (click)=\"p.next()\"> </a>\n          </li>\n\n          <li class=\"paginationEspecial\" [class.disabled]=\"p.isLastPage()\">\n            <a (click)=\"p.setCurrent(p.getLastPage())\">>></a>\n          </li>\n        </ul>\n      </pagination-template>\n    </div>\n  </div>\n"
+    "string": "import { BaseListComponent } from “@core/base-list/base-list.component\";\nimport { ThemesService } from “@themes/shared/themes.service\";\n\nexport class ProjectListComponent extends BaseListComponent implements OnInit {\n\n constructor(\n    public themesService: ThemesService\n  ) {\n    super(themesService, sortService, basicSearchService);\n\n<!--Set the id of the paginator-->\n\n    this.config.id = \"projectsPaginator\";\n  }\n\n}\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -153,12 +205,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1195,
+    "height": 304,
     "width": 614,
     "x": 39,
-    "y": 1598
+    "y": 791
   },
-  "glyphBounds": "{{0, 3}, {510, 1147}}",
+  "glyphBounds": "{{0, 3}, {595, 305}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -167,7 +219,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "<div class=\"cnt-pagi copy",
+  "name": "import { BaseListCom",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

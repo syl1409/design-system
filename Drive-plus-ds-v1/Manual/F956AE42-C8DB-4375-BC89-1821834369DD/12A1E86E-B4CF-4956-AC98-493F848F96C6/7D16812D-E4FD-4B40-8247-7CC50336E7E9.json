@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 170,
+        "length": 300,
         "location": 0
       }
     ],
-    "string": "This notification inform about something specific and currently affecting a specific screen in the app. The text on the icon input() has to be the text of a material icon"
+    "string": "This notification inform about something specific and currently affecting a specific screen in the app. The text on the icon input() has to be the text of a material icon. Keep in mind you need to import the Shared module in order to use this component on the module in which you have your components"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
+    "height": 57,
     "width": 818,
     "x": 0,
     "y": 30
   },
-  "glyphBounds": "{{0, 2}, {797, 36}}",
+  "glyphBounds": "{{0, 2}, {813, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
