@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 794,
+    "height": 759,
     "width": 936,
     "x": 0,
-    "y": -43
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -38,19 +38,15 @@
     },
     {
       "class": "rectangle",
+      "id": "24F309B6-AC4B-46AA-A910-4051213AB34F"
+    },
+    {
+      "class": "rectangle",
+      "id": "9DB8F1A1-97ED-430B-BF7A-8790811D77D8"
+    },
+    {
+      "class": "rectangle",
       "id": "597E00F6-2DD4-4620-A017-3F6553957CF7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0BB8E7F4-BA9F-4135-83E3-B55820173AA9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "49290226-671A-49E3-8812-B42992BB3A6B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1BE3EEC9-4D63-4D3B-B439-4C3165D4A275"
     },
     {
       "class": "group",
@@ -63,6 +59,10 @@
     {
       "class": "group",
       "id": "7B198FB7-FC3F-4E4D-B2EF-26086CFA18B3"
+    },
+    {
+      "class": "group",
+      "id": "5624561E-22ED-482B-925F-D2CE54D1D18D"
     }
   ],
   "name": "image-viewer",

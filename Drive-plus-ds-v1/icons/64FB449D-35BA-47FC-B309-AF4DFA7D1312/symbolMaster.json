@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 50591,
+  "changeIdentifier": 50745,
   "clippingMaskMode": 0,
   "do_objectID": "64FB449D-35BA-47FC-B309-AF4DFA7D1312",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,19 +53,18 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FD2F57AD-B46D-486D-A38C-0D04BD680975"
+      "class": "shapeGroup",
+      "id": "E59459AA-4E13-4B51-8460-36BFFFD75369"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CA9C5A9-868B-44E6-BE4F-DEC3E76248FA"
     }
   ],
   "name": "Icons/other/download",
   "nameIsFixed": true,
   "originalObjectID": "B20FDF4A-3C87-4143-BCAC-AD1B2EFE8A28",
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5914684C-D961-46EE-A784-3FE705D067E3_symbolID"
-    }
   ],
   "presetDictionary": {
   },
