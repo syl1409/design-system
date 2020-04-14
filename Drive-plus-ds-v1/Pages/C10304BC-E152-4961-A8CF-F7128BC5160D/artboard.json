@@ -52,7 +52,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      269,
       341,
       362,
       434,
@@ -121,6 +120,10 @@
       "id": "DD565804-EEA6-47A9-9F56-41029D82D708"
     },
     {
+      "class": "text",
+      "id": "BF72B4DD-10A3-49D7-9359-47D848CE8542"
+    },
+    {
       "class": "group",
       "id": "7F0CA056-459B-40C9-B982-4510BBE9A979"
     },
@@ -159,6 +162,18 @@
     {
       "class": "symbolInstance",
       "id": "22E19B4E-4E77-4436-958C-A0CC6BCD7F62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC9A7445-DF08-4D07-9E83-9D73CF704252"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8C6129B-DA98-4767-9B83-7A6AAF07CED0"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F500251-2AA2-4B0A-BD72-50220139EB83"
     }
   ],
   "layout": {
@@ -171,7 +186,7 @@
     "gutterWidth": 24.33333333333333,
     "guttersOutside": true,
     "horizontalOffset": 50,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1180
@@ -236,12 +251,11 @@
     "base": -10,
     "guides": [
       0,
-      462,
       48,
       -224,
       171,
-      675,
-      674.8000000000002
+      772,
+      792
     ]
   }
 }
