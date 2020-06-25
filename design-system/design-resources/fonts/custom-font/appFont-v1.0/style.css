@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'appFont';
-  src:  url('fonts/appFont.eot?waxlnl');
-  src:  url('fonts/appFont.eot?waxlnl#iefix') format('embedded-opentype'),
-    url('fonts/appFont.ttf?waxlnl') format('truetype'),
-    url('fonts/appFont.woff?waxlnl') format('woff'),
-    url('fonts/appFont.svg?waxlnl#appFont') format('svg');
+  src:  url('fonts/appFont.eot?j2rjxt');
+  src:  url('fonts/appFont.eot?j2rjxt#iefix') format('embedded-opentype'),
+    url('fonts/appFont.ttf?j2rjxt') format('truetype'),
+    url('fonts/appFont.woff?j2rjxt') format('woff'),
+    url('fonts/appFont.svg?j2rjxt#appFont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'appFont' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -25,6 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-download:before {
+  content: "\e952";
+  color: #648af8;
+}
+.icon-version:before {
+  content: "\e953";
+  color: #648af8;
+}
 .icon-icon-duplicate-nocircle:before {
   content: "\e951";
   color: #648af8;
