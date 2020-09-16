@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 214,
+        "length": 253,
         "location": 0
       }
     ],
-    "string": " <div class=\"checkboxContainer\">\n <input \t\t\t\t\t\t\t\t\ttype=\"checkbox\" \n\t[(ngModel)]=\"options.tables\" />\n       <span class=\"checkmark\"> \n\t<i class=\"material-icons\">check</i> \n\t</span>\n       <span>Tables</span>\n</div>\n"
+    "string": " <div class=\"checkboxContainer\">\n <input \t\t\t\t\t\t\t\t\ttype=\"checkbox\" \n\t[(ngModel)]=\"options.tables\" />\n       <span class=\"checkmark\"> \n\t<i \n\tclass=\"material-icons” \n[ngStyle]=\"themeConfig.mainStyle\"\n\t>check</i> \n\t</span>\n       <span>Tables</span>\n</div>\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 47,
     "y": 892
   },
-  "glyphBounds": "{{0, 3}, {241, 175}}",
+  "glyphBounds": "{{0, 3}, {241, 211}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "<div class=\"checkbox",
   "nameIsFixed": false,
   "resizingConstraint": 63,
