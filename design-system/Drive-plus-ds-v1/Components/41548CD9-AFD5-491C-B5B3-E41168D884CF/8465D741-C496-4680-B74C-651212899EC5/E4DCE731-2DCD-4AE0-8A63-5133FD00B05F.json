@@ -15,14 +15,14 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 6.800000000000001,
-    "width": 9,
+    "constrainProportions": true,
+    "height": 9.066666666666666,
+    "width": 12,
     "x": 3,
-    "y": 5.666666666666666
+    "y": 5.99999999999997
   },
   "hasClippingMask": false,
-  "isClosed": false,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,16 +33,6 @@
   "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
   "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.31779420125071078, 0.78896346010439977}",
-      "curveMode": 1,
-      "curveTo": "{0.31779420125071078, 0.78896346010439977}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.31779420125071078, 0.78896346010439977}"
-    },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
@@ -86,7 +76,7 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.91984081864695866, 0}",
+      "curveFrom": "{0.79388962685889775, 0.1650551389311746}",
       "curveMode": 1,
       "curveTo": "{0.91984081864695866, 0}",
       "hasCurveFrom": false,
@@ -96,9 +86,19 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
+      "curveFrom": "{0.46725622927208749, 0.59309809789714907}",
+      "curveMode": 1,
+      "curveTo": "{0.66793843507083672, 0.3301102778623492}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.54198724328277581, 0.49516541679352377}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
       "curveFrom": "{0.31779420125071078, 0.78896346010439977}",
       "curveMode": 1,
-      "curveTo": "{0.31779420125071078, 0.78896346010439977}",
+      "curveTo": "{0.39252521526139916, 0.69103077900077448}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0.31779420125071078, 0.78896346010439977}"
@@ -150,9 +150,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3074357260758628,
-          "green": 0.3074357260758628,
-          "red": 0.3093643707482993
+          "blue": 0.9450980392156862,
+          "green": 0.9450980392156862,
+          "red": 0.9450980392156862
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
