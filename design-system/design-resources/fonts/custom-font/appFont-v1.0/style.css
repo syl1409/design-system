@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'appFont';
-  src:  url('fonts/appFont.eot?j2rjxt');
-  src:  url('fonts/appFont.eot?j2rjxt#iefix') format('embedded-opentype'),
-    url('fonts/appFont.ttf?j2rjxt') format('truetype'),
-    url('fonts/appFont.woff?j2rjxt') format('woff'),
-    url('fonts/appFont.svg?j2rjxt#appFont') format('svg');
+  src:  url('fonts/appFont.eot?ulmraf');
+  src:  url('fonts/appFont.eot?ulmraf#iefix') format('embedded-opentype'),
+    url('fonts/appFont.ttf?ulmraf') format('truetype'),
+    url('fonts/appFont.woff?ulmraf') format('woff'),
+    url('fonts/appFont.svg?ulmraf#appFont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-filter_white_end:before {
+  content: "\e957";
+  color: #fff;
+}
+.icon-filter_white:before {
+  content: "\e958";
+  color: #fff;
+}
+.icon-pin_fill:before {
+  content: "\e955";
+  color: #fff;
+}
+.icon-pin_line:before {
+  content: "\e956";
+  color: #fff;
+}
+.icon-template-nocircle:before {
+  content: "\e954";
+  color: #fff;
+}
 .icon-download:before {
   content: "\e952";
   color: #648af8;
