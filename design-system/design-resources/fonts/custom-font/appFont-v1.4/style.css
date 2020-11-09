@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'appFont';
-  src:  url('fonts/appFont.eot?ulmraf');
-  src:  url('fonts/appFont.eot?ulmraf#iefix') format('embedded-opentype'),
-    url('fonts/appFont.ttf?ulmraf') format('truetype'),
-    url('fonts/appFont.woff?ulmraf') format('woff'),
-    url('fonts/appFont.svg?ulmraf#appFont') format('svg');
+  src:  url('fonts/appFont.eot?fkdl61');
+  src:  url('fonts/appFont.eot?fkdl61#iefix') format('embedded-opentype'),
+    url('fonts/appFont.ttf?fkdl61') format('truetype'),
+    url('fonts/appFont.woff?fkdl61') format('woff'),
+    url('fonts/appFont.svg?fkdl61#appFont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-comment-fill:before {
+  content: "\e905";
+}
+.icon-bell-annotations:before {
+  content: "\e904";
+  color: #648af8;
+}
 .icon-filter_white_end:before {
   content: "\e957";
   color: #fff;
@@ -190,23 +197,11 @@
 .icon-collapseIn-Copy:before {
   content: "\e903";
 }
-.icon-collapseIn:before {
-  content: "\e904";
-}
-.icon-collapseOut-Copy:before {
-  content: "\e905";
-}
 .icon-confirmation:before {
   content: "\e906";
 }
 .icon-country:before {
   content: "\e907";
-}
-.icon-delete:before {
-  content: "\e908";
-}
-.icon-duplicate:before {
-  content: "\e909";
 }
 .icon-edit-nocircle:before {
   content: "\e90a";
@@ -214,20 +209,8 @@
 .icon-edit:before {
   content: "\e90b";
 }
-.icon-file:before {
-  content: "\e90c";
-}
-.icon-message:before {
-  content: "\e90d";
-}
-.icon-password:before {
-  content: "\e90e";
-}
 .icon-photo:before {
   content: "\e90f";
-}
-.icon-pin:before {
-  content: "\e910";
 }
 .icon-project:before {
   content: "\e911";
@@ -240,9 +223,6 @@
 }
 .icon-view:before {
   content: "\e914";
-}
-.icon-z:before {
-  content: "\e915";
 }
 .icon-audio:before {
   content: "\e916";
