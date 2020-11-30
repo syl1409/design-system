@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 24
+              "name": "Helvetica-Bold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -25,7 +25,7 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       },
       {
@@ -41,8 +41,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 24
+              "name": "Helvetica",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 1,
+        "location": 5
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3921568627,
+            "green": 0.3921568627,
+            "red": 0.3921568627
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -73,12 +98,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
+    "height": 22,
     "width": 253,
     "x": 26,
-    "y": 20
+    "y": 25
   },
-  "glyphBounds": "{{1, 5}, {151, 19}}",
+  "glyphBounds": "{{0, 4}, {107, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -86,7 +111,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "Asset-title",
   "nameIsFixed": true,
   "resizingConstraint": 47,
@@ -150,8 +175,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 24
+            "name": "Helvetica-Bold",
+            "size": 18
           }
         },
         "paragraphStyle": {
