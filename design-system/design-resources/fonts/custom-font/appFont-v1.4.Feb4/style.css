@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'appFont';
-  src:  url('fonts/appFont.eot?g2i428');
-  src:  url('fonts/appFont.eot?g2i428#iefix') format('embedded-opentype'),
-    url('fonts/appFont.ttf?g2i428') format('truetype'),
-    url('fonts/appFont.woff?g2i428') format('woff'),
-    url('fonts/appFont.svg?g2i428#appFont') format('svg');
+  src:  url('fonts/appFont.eot?p7wjpz');
+  src:  url('fonts/appFont.eot?p7wjpz#iefix') format('embedded-opentype'),
+    url('fonts/appFont.ttf?p7wjpz') format('truetype'),
+    url('fonts/appFont.woff?p7wjpz') format('woff'),
+    url('fonts/appFont.svg?p7wjpz#appFont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,20 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon-add:before {
+  content: "\e910";
+  color: #474747;
+}
+.icon-icon-see:before {
+  content: "\e915";
+  color: #474747;
+}
+.icon-figures:before {
+  content: "\e90d";
+}
+.icon-live-trace:before {
+  content: "\e90e";
+}
 .icon-annotation:before {
   content: "\e90c";
 }
