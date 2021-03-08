@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'DP-icons-font';
-  src:  url('fonts/DP-icons-font.eot?el3ef5');
-  src:  url('fonts/DP-icons-font.eot?el3ef5#iefix') format('embedded-opentype'),
-    url('fonts/DP-icons-font.ttf?el3ef5') format('truetype'),
-    url('fonts/DP-icons-font.woff?el3ef5') format('woff'),
-    url('fonts/DP-icons-font.svg?el3ef5#DP-icons-font') format('svg');
+  src:  url('fonts/DP-icons-font.eot?kg42lm');
+  src:  url('fonts/DP-icons-font.eot?kg42lm#iefix') format('embedded-opentype'),
+    url('fonts/DP-icons-font.ttf?kg42lm') format('truetype'),
+    url('fonts/DP-icons-font.woff?kg42lm') format('woff'),
+    url('fonts/DP-icons-font.svg?kg42lm#DP-icons-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-comment-fill:before {
+  content: "\e97a";
+  color: #474747;
+}
 .icon-approve:before {
   content: "\e974";
   color: #474747;
