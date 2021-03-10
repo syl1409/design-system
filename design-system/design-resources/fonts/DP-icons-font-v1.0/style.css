@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'DP-icons-font';
-  src:  url('fonts/DP-icons-font.eot?wvvivp');
-  src:  url('fonts/DP-icons-font.eot?wvvivp#iefix') format('embedded-opentype'),
-    url('fonts/DP-icons-font.ttf?wvvivp') format('truetype'),
-    url('fonts/DP-icons-font.woff?wvvivp') format('woff'),
-    url('fonts/DP-icons-font.svg?wvvivp#DP-icons-font') format('svg');
+  src:  url('fonts/DP-icons-font.eot?ndnlx1');
+  src:  url('fonts/DP-icons-font.eot?ndnlx1#iefix') format('embedded-opentype'),
+    url('fonts/DP-icons-font.ttf?ndnlx1') format('truetype'),
+    url('fonts/DP-icons-font.woff?ndnlx1') format('woff'),
+    url('fonts/DP-icons-font.svg?ndnlx1#DP-icons-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,22 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-close:before {
+  content: "\e97c";
+  color: #474747;
+}
+.icon-download:before {
+  content: "\e90d";
+  color: #474747;
+}
+.icon-information:before {
+  content: "\e917";
+  color: #474747;
+}
+.icon-version:before {
+  content: "\e94e";
+  color: #474747;
+}
 .icon-folder:before {
   content: "\e97b";
   color: #474747;
@@ -111,10 +127,6 @@
   margin-left: -1em;
   color: rgb(71, 71, 71);
 }
-.icon-download:before {
-  content: "\e90d";
-  color: #474747;
-}
 .icon-drag-drop:before {
   content: "\e90e";
   color: #474747;
@@ -149,10 +161,6 @@
 }
 .icon-images:before {
   content: "\e916";
-  color: #474747;
-}
-.icon-information:before {
-  content: "\e917";
   color: #474747;
 }
 .icon-notes:before {
@@ -403,10 +411,6 @@
 }
 .icon-users:before {
   content: "\e94d";
-  color: #474747;
-}
-.icon-versions:before {
-  content: "\e94e";
   color: #474747;
 }
 .icon-video:before {
