@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'DP-icons-font';
-  src:  url('fonts/DP-icons-font.eot?6x4zkp');
-  src:  url('fonts/DP-icons-font.eot?6x4zkp#iefix') format('embedded-opentype'),
-    url('fonts/DP-icons-font.ttf?6x4zkp') format('truetype'),
-    url('fonts/DP-icons-font.woff?6x4zkp') format('woff'),
-    url('fonts/DP-icons-font.svg?6x4zkp#DP-icons-font') format('svg');
+  src:  url('fonts/DP-icons-font.eot?i4hhg9');
+  src:  url('fonts/DP-icons-font.eot?i4hhg9#iefix') format('embedded-opentype'),
+    url('fonts/DP-icons-font.ttf?i4hhg9') format('truetype'),
+    url('fonts/DP-icons-font.woff?i4hhg9') format('woff'),
+    url('fonts/DP-icons-font.svg?i4hhg9#DP-icons-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-multi-select:before {
+  content: "\e982";
+  color: #474747;
+}
+.icon-no-multi-select:before {
+  content: "\e983";
+  color: #474747;
+}
 .icon-warning:before {
   content: "\e981";
   color: #474747;
